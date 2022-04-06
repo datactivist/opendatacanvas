@@ -1,6 +1,9 @@
 # Table of contents
 
-* [F1 - Modifier les machins](README.md)
+* [F. Rendre les données faciles à trouver](README.md)
+  * [F.1 Identifier l'ensemble des produits de recherche d'un projet](readme/f.1-identifier-lensemble-des-produits-de-recherche-dun-projet.md)
+  * [F.2 Choisir un entrepôt pour stocker les produits de recherche identifiés](readme/f.2-choisir-un-entrepot-pour-stocker-les-produits-de-recherche-identifies.md)
+  * [F.3 Préparer les métadonnées et la documentation associées à chaque produit de recherche](readme/f.3-preparer-les-metadonnees-et-la-documentation-associees-a-chaque-produit-de-recherche.md)
 * [I. Rendre ses données Intéropérables](i.-rendre-ses-donnees-interoperables/README.md)
   * [I.2 S'assurer que le vocabulaire de métadonnées choisi répond à un standard](i.-rendre-ses-donnees-interoperables/i.2-sassurer-que-le-vocabulaire-de-metadonnees-choisi-repond-a-un-standard.md)
   * [I.3 Vérifier que le vocabulaire utilisé respecte les principes FAIR](i.-rendre-ses-donnees-interoperables/i.3-verifier-que-le-vocabulaire-utilise-respecte-les-principes-fair.md)
