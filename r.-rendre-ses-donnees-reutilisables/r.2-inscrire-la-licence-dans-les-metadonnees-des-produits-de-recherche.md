@@ -4,5 +4,3 @@ Il est recommandé de renseigner les métadonnées au fur et à mesure de l’av
 
 * au moment du partage des données,
 * puis à l'étape de l'archivage pérenne (des métadonnées spécifiques seront à renseigner).
-
-\

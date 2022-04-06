@@ -1,4 +1,4 @@
-# F.2 Choisir un entrepôt pour stocker les produits de recherche identifiés
+# F.3 Choisir un entrepôt pour stocker les produits de recherche identifiés
 
 ## **L'étape du partage des données**
 
@@ -19,8 +19,6 @@ Il intervient le plus souvent à la fin du projet de recherche : le partage des 
 
 ![](../.gitbook/assets/Dc1L8zGRjM7ov1kr\_VvtqJHp2hf4WQHjd.png)
 
-
-
 ## **Dépôt des données dans un entrepôt**
 
 Le but est de partager les données de recherche du projet dans des conditions optimales.
@@ -29,7 +27,7 @@ Pour cela, il faut déposer les **données,** et les **métadonnées** associée
 
 Les entrepôts permettent de stocker des données de recherche, d'y accéder et de les réutiliser. Il existe différentes catégories d'entrepôts : les entrepôts propres à une discipline, à un éditeur, à une institution ou multidisciplinaires.
 
-Il est recommandé de déposer vos données de préférence dans un **entrepôt disciplinaire** ou **institutionnel**.
+Il est recommandé de déposer vos données de préférence dans un **entrepôt disciplinaire** ou **institutionnel**.&#x20;
 
 ![](../.gitbook/assets/ezlZH4vqh0UGi9Fp\_zKL7nCdo6bJHMwx5.png)
 
@@ -73,6 +71,66 @@ Compléter et enrichir les métadonnées en fonction de l’entrepôt choisi :
 
 Il est conseillé de privilégier le dépôt de vos données dans un **entrepôt disciplinaire**. S'il n'en existe pas dans votre domaine, vous pouvez opter pour un **entrepôt généraliste**.
 
-Voici quelques exemples : \*\*\*\*
+Voici quelques exemples :&#x20;
 
-***
+<details>
+
+<summary>Zenodo (pluridisciplinaire)</summary>
+
+Entrepôt généraliste recommandé par la Commission européenne [(voir le site)](https://zenodo.org)
+
+</details>
+
+<details>
+
+<summary>Dryad (pluridisciplinaire) </summary>
+
+Entrepôt en Sciences de la Vie, Agronomie, Géosciences, Anthropologie et Sciences comportementales [(voir le site)](https://datadryad.org/stash)
+
+</details>
+
+<details>
+
+<summary>Datasuds (institutionnel IRD)</summary>
+
+L’entrepôt de données DataSuds propose aux scientifiques de l’IRD et à leurs partenaires un service pour diffuser, préserver et valoriser leurs données de recherche en facilitant leur identification et leur citation.
+
+</details>
+
+#### Critères pour choisir un entrepôt :&#x20;
+
+Si le choix de l'entrepôt vous revient, voici une liste de critères pour vous aider :&#x20;
+
+* privilégier un entrepôt disciplinaire
+* choisir un entrepôt en fonction des types de données acceptés
+* vérifier la qualité des métadonnées requise
+* vérifier si l'entrepôt envisagé est certifié
+* vérifier si l'entrepôt envisagé est labellisé "entrepôt de confiance"
+* vérifier la pérennité proposée par l'entrepôt
+* voir si le dépôt de données dans l'entrepôt envisagé génère un identifiant pérenne
+* vérifier si l'entrepôt envisagé permet la gestion des versions si tel est votre besoin.&#x20;
+
+{% hint style="info" %}
+**Astuce** **: On peut faire appel à son service d'appui à la recherche pour bien choisir son entrepôt.**
+
+**Rappel : La page SOS-PGD du site Couperin de la Science ouverte permet de repérer les services de soutien locaux :** [**https://scienceouverte.couperin.org/sos-pgd/**](https://scienceouverte.couperin.org/sos-pgd/)  **** &#x20;
+{% endhint %}
+
+#### Exemple de recherche dans l'annuaire re3data&#x20;
+
+La recherche s'effectue grâce à des filtres. La liste des résultats apparait sous forme de brèves fiches descriptives présentant, pour chaque entrepôt, le sujet, le type de contenu, le pays, un petit résumé et des icônes symbolisant les critères auxquels répond l'entrepôt.
+
+#### Recherche d'un entrepôt dans Cat OPIDoR&#x20;
+
+Pour trouver un entrepôt de données français, vous pouvez aussi utiliser l'outil [Cat OPIDoR](https://cat.opidor.fr/index.php/Cat\_OPIDoR,\_wiki\_des\_services\_d%C3%A9di%C3%A9s\_aux\_donn%C3%A9es\_de\_la\_recherche).
+
+**Cat**alogue pour une **O**ptimisation du **P**artage et de l’**I**nteropérabilité des **Do**nnées de la **R**echerche
+
+Proposé sous forme d’un wiki, cet **outil collaboratif**, **gratuit** et ouvert à tous permet de **repérer** et ajouter des services utiles dans le cadre d’un projet de recherche.
+
+Cat OPIDoR recense et décrit les **services français** dédiés aux données scientifiques et présente, par domaine scientifique : des sites d’information, de formation, des outils de gestion, des plateformes... pour accompagner les chercheurs sur l’ensemble des étapes clés de la gestion, collecte, stockage, conservation et ouverture des données.
+
+{% hint style="info" %}
+**Astuce : vous pouvez éventuellement trouver un entrepôt de données à votre convenance en effectuant une recherche sur le sujet que vous traitez via** [**Google Dataset Search**](https://datasetsearch.research.google.com) **ou** [**OpenAIRE Explore**](https://explore.openaire.eu)**. Ces moteurs de recherche sont conçus pour chercher directement des jeux de données.**&#x20;
+{% endhint %}
+
