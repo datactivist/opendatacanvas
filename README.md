@@ -1,3 +1,2 @@
-# F1 - Modifier les machins
+# Étape F. Rendre les données faciles à trouver
 
-Test test test&#x20;

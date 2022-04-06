@@ -1,12 +1,6 @@
----
-description: >-
-  Attribuer une licence à vos données est très important car cela permet de bien
-  définir les modalités de réutilisation et de les afficher clairement.
----
-
 # R.1 Choisir le type de licence adapté à mes besoins
 
-Il existe de nombreuses licences, modulables en fonction de vos besoins pour certaines, très spécifiques pour d'autres. Voici quelques exemples :
+Attribuer une licence à vos données est très important car cela permet de bien définir les modalités de réutilisation et de les afficher clairement. Il existe de nombreuses licences, modulables en fonction de vos besoins pour certaines, très spécifiques pour d'autres. Voici quelques exemples :
 
 <details>
 

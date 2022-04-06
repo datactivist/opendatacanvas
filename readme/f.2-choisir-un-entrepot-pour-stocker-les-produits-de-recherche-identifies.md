@@ -97,6 +97,14 @@ L’entrepôt de données DataSuds propose aux scientifiques de l’IRD et à le
 
 </details>
 
+<details>
+
+<summary>Research.data.gouv (national)</summary>
+
+(à venir) Plateforme nationale fédérée [https://projet-recherchedatagv.ouvrirlascience.fr/le-projet/a-propos-de-recherche-data-gouv](https://projet-recherchedatagv.ouvrirlascience.fr/le-projet/a-propos-de-recherche-data-gouv)
+
+</details>
+
 #### Critères pour choisir un entrepôt :&#x20;
 
 Si le choix de l'entrepôt vous revient, voici une liste de critères pour vous aider :&#x20;
