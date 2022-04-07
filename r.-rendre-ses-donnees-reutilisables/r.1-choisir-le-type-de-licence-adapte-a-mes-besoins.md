@@ -68,6 +68,10 @@ Il existe des licences spécifiques aux bases de données comme la licence libre
 
 </details>
 
+{% hint style="info" %}
+Notez que dans le cas de données publiques ayant une visibilité internationale, il est tout à fait **possible d'attribuer à la fois une Licence ouverte Etalab et une licence CC-By**.
+{% endhint %}
+
 ## **Outils et liens utiles pour la sélection des licences**
 
 {% embed url="https://www.data.gouv.fr/fr/pages/legal/licences" %}

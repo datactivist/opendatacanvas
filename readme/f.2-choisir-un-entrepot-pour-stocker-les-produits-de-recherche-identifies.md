@@ -1,24 +1,5 @@
 # F.3 Choisir un entrepôt pour stocker les produits de recherche identifiés
 
-## **L'étape du partage des données**
-
-La gestion des données de recherche du projet doit être réfléchie et organisée différemment en fonction de l'étape à laquelle on se situe, pendant et après le projet.
-
-Il est important de partager ses données en les déposant dans un **entrepôt** :
-
-* afin de les **rendre accessibles facilement** (principes FAIR)
-* afin de permettre leur **réutilisation** (principes FAIR)
-* sur le **court et le moyen terme** (5 à 10 ans)
-* pour des chercheurs **du même domaine**, ou d’un **autre domaine**.
-
-![](../.gitbook/assets/znFAvopt3CdAyO\_F\_ZERs5auWcxnIubMM.png)
-
-## **Le partage des données dans le cycle de vie des données**
-
-Il intervient le plus souvent à la fin du projet de recherche : le partage des données est complémentaire de la publication scientifique.
-
-![](../.gitbook/assets/Dc1L8zGRjM7ov1kr\_VvtqJHp2hf4WQHjd.png)
-
 ## **Dépôt des données dans un entrepôt**
 
 Le but est de partager les données de recherche du projet dans des conditions optimales.

@@ -18,6 +18,10 @@ Bien que produites sur fonds publics, certaines données ne peuvent pas être ac
 * des données relevant de la sécurité nationale ;
 * des données sujettes à un dépôt de brevet.
 
+{% hint style="info" %}
+**ll est conseillé d'avoir recours au cryptage de vos données sensibles pour éviter des intrusions malveillantes.**
+{% endhint %}
+
 Si vos données doivent rester privées, spécifiez les conditions exactes dans lesquelles elles peuvent être accessibles : qui a le droit d'y accéder et comment.
 
 
