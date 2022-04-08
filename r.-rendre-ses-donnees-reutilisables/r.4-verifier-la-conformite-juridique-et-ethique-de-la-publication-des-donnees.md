@@ -40,3 +40,22 @@ Une partie du DMP concerne les aspects éthiques :
 * Dans le cas de données devant respecter des règles d’éthique particulières, préciser les normes, chartes, déclarations, codes, politiques auxquels on se réfère
 * En signant la charte d'éthique, le chercheur prend un engagement important
 * En cas de recours à un comité d’éthique, expliquer le processus de recrutement et d’évaluation.
+
+Pour aller plus loin :&#x20;
+
+<details>
+
+<summary>Guide d'analyse du cadre juridique en France</summary>
+
+[https://www.ouvrirlascience.fr/wp-content/uploads/2018/11/Guide\_Juridique\_V2.pdf](https://www.ouvrirlascience.fr/wp-content/uploads/2018/11/Guide\_Juridique\_V2.pdf)
+
+</details>
+
+<details>
+
+<summary>Logigramme de l’Institut Pasteur relatif aux questions juridiques liées à la diffusion des données de la recherche</summary>
+
+[https://www.pasteur.fr/fr/file/20707/download](https://www.pasteur.fr/fr/file/20707/download)
+
+</details>
+

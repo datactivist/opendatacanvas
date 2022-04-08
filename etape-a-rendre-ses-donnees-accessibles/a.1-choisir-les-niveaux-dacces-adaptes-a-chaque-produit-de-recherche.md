@@ -1,14 +1,14 @@
 # A.1 Choisir les niveaux d'accès adaptés à chaque produit de recherche
 
-Pour être FAIR, les métadonnées doivent rester accessibles même si les données ne le sont plus. Avec le temps, les données peuvent disparaître. Les métadonnées peuvent être très utiles dans ce cas, car elles permettront d'avoir de précieuses informations sur le jeu de données disparu et de laisser la possibilité à d'autres chercheurs de reprendre et poursuivre les recherches associées. L'entrepôt a un rôle majeur dans ce cas, étant donné que c'est lui qui héberge les données et métadonnées associées.
+Pour être FAIR, les métadonnées doivent rester accessibles même si les données ne le sont plus. Avec le temps, les données peuvent disparaître. Les métadonnées peuvent être très utiles dans ce cas, car elles permettront d'avoir de précieuses informations sur le jeu de données disparu et de laisser la possibilité à d'autres chercheurs de reprendre et poursuivre les recherches associées. L'entrepôt a un rôle majeur dans ce cas, étant donné que c'est lui qui héberge les données et métadonnées associées
 
-## **Garder des informations sur les données si elles sont inaccessibles**
+**Garder des informations sur les données si elles sont inaccessibles**
 
-Maintenir des jeux de données en ligne a un coût. Avec le temps, il y a des risques de dégradation. Dans ce cas, les jeux de données peuvent ne plus être disponibles. De même, des restrictions d'accès peuvent exister.
+Maintenir des jeux de données en ligne a un coût. Avec le temps, il y a des risques de dégradation. Dans ce cas, les jeux de données peuvent ne plus être disponibles. De même, des restrictions d'accès peuvent exister (voir "authentification").
 
 Si les données disparaissent ou sont inaccessibles, les métadonnées continueront à fournir de précieuses informations pour que d'autres chercheurs puissent connaître l'existence des données, contacter les personnes ressources ou encore retrouver les articles associés aux données.
 
-## **Choisir un niveau d'authentification**&#x20;
+**Choisir un niveau d'authentification**&#x20;
 
 Pour être FAIR, les données sensibles doivent pouvoir être accessibles par authentification. Les protocoles de communication HTTPS et FTPS peuvent demander un certificat d'identification aux personnes voulant accéder au site. L'entrepôt sur lequel les données sont déposées doit ainsi pouvoir identifier les visiteurs et donner des droits spécifiques pour donner accès ou non aux données sensibles.
 

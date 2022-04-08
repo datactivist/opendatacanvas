@@ -2,13 +2,9 @@
 
 ## **Préparation et documentation des données**
 
-Il est impératif de bien préparer et documenter ses données afin d’optimiser le stockage, le partage, l’archivage et la réutilisation.&#x20;
+Il est impératif de bien préparer et documenter ses données afin d’optimiser le stockage, le partage, l’archivage et la réutilisation. Il est recommandé de réaliser ce travail de documentation dès l'étape de collecte/ création des données.
 
-Il est recommandé de réaliser ce travail de documentation dès l'étape de collecte/ création des données.
-
-Dans le **PGD**, il faut indiquer de manière précise quelles méthodes sont utilisées pour recueillir ou produire les données.
-
-De même, il est recommandé de réaliser ce travail de documentation au fur et à mesure de l'étape de traitement des données.
+Dans le **PGD**, il faut indiquer de manière précise quelles méthodes sont utilisées pour recueillir ou produire les données. De même, il est recommandé de réaliser ce travail de documentation au fur et à mesure de l'étape de traitement des données.
 
 <details>
 
@@ -46,9 +42,7 @@ Attention aux données sensibles, personnelles ou confidentielles : prendre les 
 
 ### Définition **métadonnées**
 
-Les métadonnées permettent de décrire plus précisément les données.&#x20;
-
-Ce sont des **données sur les données**.&#x20;
+Les métadonnées permettent de décrire plus précisément les données. Ce sont des **données sur les données** qui servent à faciliter la recherche d'un produit de recherche **:** lorsque vous tapez des mots clés dans une barre de recherche ou lorsque vous sélectionnez des filtres.
 
 Si on s'imagine un jeu de données sous la forme d'une boite de conserve, alors les métadonnées équivalent à l'étiquette qui orne celle-ci et en décrit le contenu (date de fabrication, créateur etc.).
 

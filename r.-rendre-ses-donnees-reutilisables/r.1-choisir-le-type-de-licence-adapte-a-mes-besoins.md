@@ -64,7 +64,7 @@ Certaines licences sont dédiées aux logiciels comme la licence de logiciel lib
 
 <summary>Licences pour base de données</summary>
 
-Il existe des licences spécifiques aux bases de données comme la licence libre [Open Database License (ODbL)](https://fr.wikipedia.org/wiki/Open\_Database\_License).
+Il existe des licences spécifiques aux bases de données comme la licence libre [Open Database License (ODbL)](https://fr.wikipedia.org/wiki/Open\_Database\_License), [Open Data Commons](https://opendatacommons.org/licenses/by/1-0/) (ODC-by)
 
 </details>
 
