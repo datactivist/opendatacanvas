@@ -1,4 +1,4 @@
-# R.4 Vérifier la conformité juridique et éthique de la publication des données
+# 2.Vérifier la conformité juridique et éthique de la publication des données
 
 ## **Propriété intellectuelle des données de recherche**
 
@@ -41,7 +41,7 @@ Une partie du DMP concerne les aspects éthiques :
 * En signant la charte d'éthique, le chercheur prend un engagement important
 * En cas de recours à un comité d’éthique, expliquer le processus de recrutement et d’évaluation.
 
-Pour aller plus loin :&#x20;
+Pour aller plus loin :
 
 <details>
 
@@ -50,12 +50,3 @@ Pour aller plus loin :&#x20;
 [https://www.ouvrirlascience.fr/wp-content/uploads/2018/11/Guide\_Juridique\_V2.pdf](https://www.ouvrirlascience.fr/wp-content/uploads/2018/11/Guide\_Juridique\_V2.pdf)
 
 </details>
-
-<details>
-
-<summary>Logigramme de l’Institut Pasteur relatif aux questions juridiques liées à la diffusion des données de la recherche</summary>
-
-[https://www.pasteur.fr/fr/file/20707/download](https://www.pasteur.fr/fr/file/20707/download)
-
-</details>
-
