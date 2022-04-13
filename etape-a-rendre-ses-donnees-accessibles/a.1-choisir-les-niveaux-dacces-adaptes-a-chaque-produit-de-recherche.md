@@ -2,6 +2,30 @@
 
 Pour être FAIR, les métadonnées doivent rester accessibles même si les données ne le sont plus. Avec le temps, les données peuvent disparaître. Les métadonnées peuvent être très utiles dans ce cas, car elles permettront d'avoir de précieuses informations sur le jeu de données disparu et de laisser la possibilité à d'autres chercheurs de reprendre et poursuivre les recherches associées. L'entrepôt a un rôle majeur dans ce cas, étant donné que c'est lui qui héberge les données et métadonnées associées.
 
+## **Propriété intellectuelle des données de recherche**
+
+Les droits s'appliquant aux données de recherche sont différents du droit d’auteur auquel se réfèrent les publications.
+
+Les données relèvent d’un **régime lié au droit des bases de données.** Dans ce cas, le droit de propriété appartient légalement au « producteur » de la base de données, compris au sens de la personne qui réalise l’investissement financier et matériel nécessaire à la constitution de la base. Il s’agira donc **en général de l’établissement de tutelle des chercheurs qui sera considéré comme le titulaire effectif du droit de propriété**.
+
+Mais si ce droit existe formellement, il ne peut plus être opposé aux droits des ré-utilisateurs des données (principe d’ouverture des données). En effet, la **loi pour une République numérique** a explicitement « neutralisé » le droit des bases de données des administrations pour faire primer le **principe de libre réutilisation**.
+
+**Il en résulte que les données produites par les chercheurs sont, par principe, ouvertes par défaut.**
+
+****
+
+## **Droits et obligations du chercheur**
+
+Cette étape est cruciale car elle détermine la latitude dont le chercheur disposera ensuite pour publier, diffuser et communiquer ses données et les résultats de ses recherches.
+
+Dès le début du projet, au moment de la collecte et de la production des données, le chercheur doit être vigilant concernant ses droits et obligations.
+
+Exemples :
+
+* Dans le cas d’une interview ou de prises de son/de vue, le chercheur doit recueillir le consentement écrit des personnes concernées.
+* Dans le cas d'une consultation de données d’archives, quels sont les droits afférents ?
+* Dans le cas d'une collecte d’objets archéologiques, quels sont les droits liés au pays de collecte ?
+
 ## **Garder des informations sur les données si elles sont inaccessibles**
 
 Maintenir des jeux de données en ligne a un coût. Avec le temps, il y a des risques de dégradation. Dans ce cas, les jeux de données peuvent ne plus être disponibles. De même, des restrictions d'accès peuvent exister.

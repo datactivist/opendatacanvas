@@ -16,8 +16,6 @@ Les protocoles propriétaires ou dont la documentation n'est pas accessible publ
 {% endtab %}
 {% endtabs %}
 
-Crédits : Inist-CNRS - Parcours interactif DORANum sur les principes FAIR
-
 <details>
 
 <summary>Logigramme de l’Institut Pasteur relatif aux questions juridiques liées à la diffusion des données de la recherche</summary>
@@ -25,3 +23,5 @@ Crédits : Inist-CNRS - Parcours interactif DORANum sur les principes FAIR
 [https://www.pasteur.fr/fr/file/20707/download](https://www.pasteur.fr/fr/file/20707/download)
 
 </details>
+
+Crédits : Inist-CNRS - Parcours interactif DORANum sur les principes FAIR
