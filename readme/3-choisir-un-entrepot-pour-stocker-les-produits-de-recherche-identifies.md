@@ -102,7 +102,7 @@ Si le choix de l'entrepôt vous revient, voici une liste de critères pour vous 
 {% hint style="info" %}
 **Astuce** **: On peut faire appel à son service d'appui à la recherche pour bien choisir son entrepôt.**
 
-**Rappel : La page SOS-PGD du site Couperin de la Science ouverte permet de repérer les services de soutien locaux :** [**https://scienceouverte.couperin.org/sos-pgd/**](https://scienceouverte.couperin.org/sos-pgd/)&#x20;
+**Rappel : La page SOS-PGD du site Couperin de la Science ouverte permet de repérer les services de soutien locaux :** [**https://scienceouverte.couperin.org/sos-pgd/**](https://scienceouverte.couperin.org/sos-pgd/)
 {% endhint %}
 
 #### Exemple de recherche dans l'annuaire re3data
@@ -122,3 +122,5 @@ Cat OPIDoR recense et décrit les **services français** dédiés aux données s
 {% hint style="info" %}
 **Astuce : vous pouvez éventuellement trouver un entrepôt de données à votre convenance en effectuant une recherche sur le sujet que vous traitez via** [**Google Dataset Search**](https://datasetsearch.research.google.com) **ou** [**OpenAIRE Explore**](https://explore.openaire.eu)**. Ces moteurs de recherche sont conçus pour chercher directement des jeux de données.**
 {% endhint %}
+
+**Crédits : Inist-CNRS -** [**PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE**](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)****

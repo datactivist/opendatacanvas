@@ -93,3 +93,5 @@ Pour cela, il est recommandé d'avoir recours à un **standard** de métadonnée
 
 S'il n’en existe pas, il faudra créer un **schéma** de métadonnées.[\
 ](https://doranum.fr/wp-content/uploads/parcours-GDR/index.html#)
+
+Crédits : Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
