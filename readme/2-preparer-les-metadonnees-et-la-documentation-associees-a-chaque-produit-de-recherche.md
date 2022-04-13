@@ -1,5 +1,9 @@
 # 2. Préparer les métadonnées et la documentation associées à chaque produit de recherche
 
+{% hint style="info" %}
+Une fois les produits de recherche de votre projet identifiés et inscrits dans DMP OPIDoR, vous pouvez désormais passer à la rédaction. Dans cette page vous retrouverez des recommandations pour préparer la documentation et les métadonnées associées à vos produits de recherche.
+{% endhint %}
+
 ## **Préparation et documentation des données**
 
 Il est impératif de bien préparer et documenter ses données afin d’optimiser le stockage, le partage, l’archivage et la réutilisation. Il est recommandé de réaliser ce travail de documentation dès l'étape de collecte/ création des données.

@@ -1,5 +1,9 @@
 # 3. Choisir un entrepôt pour stocker les produits de recherche identifiés
 
+{% hint style="info" %}
+Pour rendre ses données faciles à trouver, il est important de choisir un entrepôt où déposer vos données afin de les ouvrir. Le choix de l'entrepôt repose sur vos besoins et/ou contraintes, vous trouverez dans cette page des éléments permettant de guider vos choix afin de sélectionner l'entrepôt le plus adapté.
+{% endhint %}
+
 ## **Dépôt des données dans un entrepôt**
 
 Le but est de partager les données de recherche du projet dans des conditions optimales.
