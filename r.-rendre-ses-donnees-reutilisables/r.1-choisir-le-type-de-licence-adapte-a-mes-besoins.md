@@ -1,11 +1,11 @@
-# R.1 Choisir le type de licence adapté à mes besoins
+# 1. Choisir le type de licence adapté à mes besoins
 
 Attribuer une licence à vos données est très important car cela permet de bien définir les modalités de réutilisation et de les afficher clairement. Il est recommandé de renseigner la licence dans les métadonnées au fur et à mesure de l’avancée du projet, avec une attention particulière :
 
 * au moment du partage des données,
 * puis à l'étape de l'archivage pérenne (des métadonnées spécifiques seront à renseigner).
 
-&#x20;Il existe de nombreuses licences, modulables en fonction de vos besoins pour certaines, très spécifiques pour d'autres. Voici quelques exemples (liste non exhaustive) :
+Il existe de nombreuses licences, modulables en fonction de vos besoins pour certaines, très spécifiques pour d'autres. Voici quelques exemples (liste non exhaustive) :
 
 <details>
 
@@ -13,7 +13,7 @@ Attribuer une licence à vos données est très important car cela permet de bie
 
 En France, la réglementation stipule que la licence ouverte (Etalab) doit être attribuée aux données publiques. Cette licence ouverte, libre et gratuite est compatible avec la CC-BY 2.0, ce qui veut dire que la paternité des données devra être mentionnée en cas de réutilisation des données.
 
-![](../.gitbook/assets/logo\_licenceetalab.gif)
+<img src="../.gitbook/assets/logo_licenceetalab.gif" alt="" data-size="original">
 
 </details>
 
@@ -98,3 +98,7 @@ Cet outil permet de choisir quelle licence attribuer à ses données en utilisan
 ## Vérifier la compatibilité entre les différentes licences utilisées
 
 Il est à noter que la licence ouverte d’Etalab est compatible avec la licence Creative Commons CC-BY et que la licence ODBL est similaire à la licence Creative Commons CC-BY-SA. Le choix de ces deux licences CC pourra donc s’apprécier en fonction du contexte international et des politiques des entrepôts scientifiques. En revanche les Creative commons CC-BY-ND (sans modification) et CC-BY-NC (sans usage commercial) sont à éviter dans le contexte de l’open data.
+
+
+
+Crédits : Inist-CNRS - Parcours interactif DORANum sur les principes FAIR

@@ -16,7 +16,7 @@ Les protocoles propriétaires ou dont la documentation n'est pas accessible publ
 {% endtab %}
 {% endtabs %}
 
-
+Crédits : Inist-CNRS - Parcours interactif DORANum sur les principes FAIR
 
 <details>
 

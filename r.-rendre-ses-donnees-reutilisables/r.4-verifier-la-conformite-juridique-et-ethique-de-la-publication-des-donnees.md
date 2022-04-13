@@ -50,3 +50,5 @@ Pour aller plus loin :
 [https://www.ouvrirlascience.fr/wp-content/uploads/2018/11/Guide\_Juridique\_V2.pdf](https://www.ouvrirlascience.fr/wp-content/uploads/2018/11/Guide\_Juridique\_V2.pdf)
 
 </details>
+
+Crédits : Inist-CNRS - Parcours interactif DORANum sur les principes FAIR

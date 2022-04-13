@@ -1,4 +1,4 @@
-# I.1 Vérifier que le format de données choisi est ouvert et partagé
+# 1. Vérifier que le format de données choisi est ouvert et partagé
 
 Le choix d’un format peut être guidé par :
 
@@ -7,3 +7,7 @@ Le choix d’un format peut être guidé par :
 * les logiciels ou équipements utilisés.
 
 L'idéal est d'opter pour des formats de fichiers les plus **ouverts** possible (**non propriétaires**), standardisés et pérennes.
+
+
+
+Crédits : Inist-CNRS - Parcours interactif DORANum sur les principes FAIR

@@ -1,4 +1,4 @@
-# I.3 Vérifier que le vocabulaire utilisé respecte les principes FAIR
+# 3. Vérifier que le vocabulaire utilisé respecte les principes FAIR
 
 Il est fortement recommandé d'utiliser des **vocabulaires contrôlés disciplinaires** utilisés couramment par la communauté scientifique du domaine : par exemple des codex de médicaments, des classifications taxonomiques, la nomenclature internationale des formules chimiques....
 
@@ -12,3 +12,5 @@ Exemples :
 Les champs de métadonnées sont à renseigner avec ce vocabulaire contrôlé, notamment au moment du dépôt dans un entrepôt pour le partage.
 
 Le recours à des mots-clés, à du vocabulaire connu, reconnu et utilisé par une communauté scientifique augmente ainsi la capacité des données à être combinées avec d’autres données dans le cadre d'une réutilisation.
+
+Crédits : Inist-CNRS - Parcours interactif DORANum sur les principes FAIR

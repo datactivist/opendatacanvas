@@ -1,4 +1,4 @@
-# F.2 Préparer les métadonnées et la documentation associées à chaque produit de recherche
+# 2. Préparer les métadonnées et la documentation associées à chaque produit de recherche
 
 ## **Préparation et documentation des données**
 
@@ -8,11 +8,11 @@ Dans le **PGD**, il faut indiquer de manière précise quelles méthodes sont ut
 
 <details>
 
-<summary>Cas des données collectées </summary>
+<summary>Cas des données collectées</summary>
 
 Indiquer :
 
-• leur provenance (corpus, archives…),&#x20;
+• leur provenance (corpus, archives…),
 
 • sur quels critères elles ont été sélectionnées
 
@@ -26,11 +26,11 @@ Indiquer :
 
 Indiquer :
 
-• le contexte de création,&#x20;
+• le contexte de création,
 
-• les méthodes utilisées,&#x20;
+• les méthodes utilisées,
 
-• les protocoles suivis ou établis,&#x20;
+• les protocoles suivis ou établis,
 
 • les contrôles qualité mis en place.
 
@@ -65,8 +65,7 @@ Il est recommandé de renseigner les métadonnées au fur et à mesure de l’av
 * au moment du partage des données,
 * puis à l'étape de l'archivage pérenne (des métadonnées spécifiques seront à renseigner).
 
-\
-
+\\
 
 ![](../.gitbook/assets/Cycle\_de\_vie\_métadonnées.png)
 
@@ -74,23 +73,27 @@ Il existe deux types de métadonnées : les métadonnées embarquées et enrichi
 
 {% tabs %}
 {% tab title="Métadonnées emabarquées" %}
-Elles sont produites **automatiquement** par les appareils (de prise de vue ou de son, de mesure…).&#x20;
+Elles sont produites **automatiquement** par les appareils (de prise de vue ou de son, de mesure…).
 
 Exemples : données GPS, type d’appareil, date, calibrage technique, etc.
 {% endtab %}
 
 {% tab title="Métadonnées enrichies" %}
-Elles sont **ajoutées** par l'auteur.&#x20;
+Elles sont **ajoutées** par l'auteur.
 
 Exemples : mots-clés, sujet, auteur, laboratoire ou organisme, nom du projet, licence, etc.
 {% endtab %}
 {% endtabs %}
 
-N'oubliez pas de bien compléter les métadonnées embarquées par des métadonnées enrichies.&#x20;
+N'oubliez pas de bien compléter les métadonnées embarquées par des métadonnées enrichies.
 
 L'idéal est de renseigner ces métadonnées au fur et à mesure.
 
-Pour cela, il est recommandé d'avoir recours à un **standard** de métadonnées propre à votre discipline ou adapté à vos besoins.&#x20;
+Pour cela, il est recommandé d'avoir recours à un **standard** de métadonnées propre à votre discipline ou adapté à vos besoins.
 
-S'il n’en existe pas, il faudra créer un **schéma** de métadonnées.[\
+S'il n’en existe pas, il faudra créer un **schéma** de métadonnées.
+
+
+
+Crédits : Inist-CNRS - Parcours interactif DORANum sur la gestion des données de la recherche[\
 ](https://doranum.fr/wp-content/uploads/parcours-GDR/index.html#)
