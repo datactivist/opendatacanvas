@@ -52,15 +52,15 @@ Si on s'imagine un jeu de données sous la forme d'une boite de conserve, alors 
 
 ![Sans métadonnées(Image par Araceli Jáuregui de Pixabay)](https://doranum.fr/wp-content/uploads/parcours-GDR/assets/ZIqvStOb8EWOwj87\_gTYQr2sBdpiH7LRb.jpg)
 
-_**Sans métadonnées**_
+![Avec métadonnées (Image par heberhard de Pixabay )](https://doranum.fr/wp-content/uploads/parcours-GDR/assets/kyICAtdXKRQLePZa\_cqHq\_g8s4zZxStDK.jpg)
 
-_(Image par Araceli Jáuregui de Pixabay)_
+Les métadonnées sont donc utiles pour :
 
-![Avec métadonnées(Image par heberhard de Pixabay )](https://doranum.fr/wp-content/uploads/parcours-GDR/assets/kyICAtdXKRQLePZa\_cqHq\_g8s4zZxStDK.jpg)
-
-_**Avec métadonnées**_
-
-_(Image par heberhard de Pixabay )_
+* Comprendre l’origine des données et leur contexte de création ou de collecte
+* Améliorer le moissonnage (récupération automatique) par les machines (moteur de recherche)
+* Garantir l’interopérabilité
+* Connaitre les conditions de réutilisation et de partage des données
+* Accéder à des informations très utiles lorsqu’on ne peut pas partager ses données (embargo, accès restreint) ou lors du retrait des données (données obsolètes, etc.).
 
 ## **Les métadonnées dans le cycle de vie des données**
 
@@ -68,8 +68,6 @@ Il est recommandé de renseigner les métadonnées au fur et à mesure de l’av
 
 * au moment du partage des données,
 * puis à l'étape de l'archivage pérenne (des métadonnées spécifiques seront à renseigner).
-
-\\
 
 ![](../.gitbook/assets/Cycle\_de\_vie\_métadonnées.png)
 

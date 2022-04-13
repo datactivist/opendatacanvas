@@ -4,9 +4,15 @@ Afin de renseigner ses métadonnées au fur et à mesure du projet il est recomm
 
 Un standard de métadonnées propose un ensemble d’éléments (par exemple titre, auteur, date de production) à utiliser pour décrire une ressource. Il précise les contraintes qui peuvent s’appliquer à ces éléments (par exemple, élément obligatoire ou à valeur unique). Il spécifie également la syntaxe à utiliser pour chaque élément (par exemple pour une date : aaaa-mm-jj)
 
-## **Quelques exemples de standards de métadonnées :**
+## **Quelques exemples de standards de métadonnées**&#x20;
 
-***
+* **Dublin Core :** Le Dublin Core est un standard **international et multidisciplinaire** très utilisé. Il comporte **15 éléments** qui constituent le **minimum exigé** avec des éléments relatifs au contenu et à la propriété intellectuelle.&#x20;
+
+Par exemple l'organisation OpenAIRE utilise [DataCite Metadata Schema](https://rdamsc.bath.ac.uk/msc/m11) et [Dublin Core](https://rdamsc.bath.ac.uk/msc/m15).
+
+![Les 15 éléments du Dublin Core  Source : DORANuM](../.gitbook/assets/standard\_DC.png)
+
+
 
 ## **La différence entre schéma et standard**
 
