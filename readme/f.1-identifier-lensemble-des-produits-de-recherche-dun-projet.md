@@ -69,4 +69,4 @@ L'utilisation de logiciel(s) peut intervenir à toutes les étapes de la recherc
 | <p><strong>Autre</strong><br></p>                 | <p>Tout autre type de produit de recherche.</p><hr>                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                  |
 
 \
-Crédits : Inist-CNRS - Parcours interactif DORANum sur la gestion des données de la recherche
+\\

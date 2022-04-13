@@ -36,8 +36,6 @@ Consulter la section "Disciplinary Metadata" du site du Digital Curation Centre
 Consulter le "RDA Metadata Standards Directory" de la Research Data Alliance
 {% endembed %}
 
-
-
-Crédits : Inist-CNRS - Parcours interactif DORANum sur les principes FAIR
+***
 
 ***

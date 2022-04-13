@@ -91,9 +91,5 @@ L'idéal est de renseigner ces métadonnées au fur et à mesure.
 
 Pour cela, il est recommandé d'avoir recours à un **standard** de métadonnées propre à votre discipline ou adapté à vos besoins.
 
-S'il n’en existe pas, il faudra créer un **schéma** de métadonnées.
-
-
-
-Crédits : Inist-CNRS - Parcours interactif DORANum sur la gestion des données de la recherche[\
+S'il n’en existe pas, il faudra créer un **schéma** de métadonnées.[\
 ](https://doranum.fr/wp-content/uploads/parcours-GDR/index.html#)

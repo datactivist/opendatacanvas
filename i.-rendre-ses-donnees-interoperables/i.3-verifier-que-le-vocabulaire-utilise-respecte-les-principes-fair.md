@@ -12,5 +12,3 @@ Exemples :
 Les champs de métadonnées sont à renseigner avec ce vocabulaire contrôlé, notamment au moment du dépôt dans un entrepôt pour le partage.
 
 Le recours à des mots-clés, à du vocabulaire connu, reconnu et utilisé par une communauté scientifique augmente ainsi la capacité des données à être combinées avec d’autres données dans le cadre d'une réutilisation.
-
-Crédits : Inist-CNRS - Parcours interactif DORANum sur les principes FAIR

@@ -10,4 +10,4 @@ Modèle OpenAIRE permettant d'évaluer les coûts sur tout le cycle de vie de la
 Calculateur de coûts permettant aux chercheurs d'avoir une estimation de coût de gestion, de stockage et de publication des données
 {% endembed %}
 
-Crédits : OpenAIRE
+\\
