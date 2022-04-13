@@ -10,7 +10,7 @@ Il est impératif de bien préparer et documenter ses données afin d’optimise
 
 Dans le **PGD**, il faut indiquer de manière précise quelles méthodes sont utilisées pour recueillir ou produire les données. De même, il est recommandé de réaliser ce travail de documentation au fur et à mesure de l'étape de traitement des données.
 
-
+## Check-list des métadonnées à indiquer dans le PGD
 
 <details>
 
