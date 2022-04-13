@@ -1,5 +1,11 @@
 # 1. Identifier l'ensemble des produits de recherche d'un projet
 
+{% hint style="info" %}
+dd
+{% endhint %}
+
+fff
+
 ## Définition des données de la recherche
 
 Il existe de nombreuses définitions des données de la recherche.
