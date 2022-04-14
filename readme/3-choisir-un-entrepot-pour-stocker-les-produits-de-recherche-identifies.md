@@ -111,7 +111,7 @@ Si le choix de l'entrepôt vous revient, voici une liste de critères pour vous 
 **Rappel : La page SOS-PGD du site Couperin de la Science ouverte permet de repérer les services de soutien locaux :** [**https://scienceouverte.couperin.org/sos-pgd/**](https://scienceouverte.couperin.org/sos-pgd/)
 {% endhint %}
 
-#### Exemple de recherche dans l'annuaire re3data
+## Recherche d'un entrepôt dans un annuaire - Re3data et Cat OPIDoR
 
 La recherche s'effectue grâce à des filtres. La liste des résultats apparait sous forme de brèves fiches descriptives présentant, pour chaque entrepôt, le sujet, le type de contenu, le pays, un petit résumé et des icônes symbolisant les critères auxquels répond l'entrepôt.
 
