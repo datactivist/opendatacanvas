@@ -36,7 +36,9 @@ Le but est de partager les données de recherche du projet dans des conditions o
 
 Pour cela, il faut déposer les **données,** et les **métadonnées** associées, dans l'entrepôt choisi, sans oublier les **codes sources** nécessaires à la lecture et à la compréhension de celles-ci.
 
-Les entrepôts permettent de stocker des données de recherche, d'y accéder et de les réutiliser. Il existe différentes catégories d'entrepôts : les entrepôts propres à une discipline, à un éditeur, à une institution ou multidisciplinaires.
+Les entrepôts permettent de stocker des données de recherche, d'y accéder et de les réutiliser.  Certains entrepôts permettent de **rendre accessible uniquement les métadonnées** pour signaler l’existence de données en accès fermé.
+
+&#x20;Il existe différentes catégories d'entrepôts : les entrepôts propres à une discipline, à un éditeur, à une institution ou multidisciplinaires.
 
 Il est recommandé de déposer vos données de préférence dans un **entrepôt disciplinaire** ou **institutionnel**.
 

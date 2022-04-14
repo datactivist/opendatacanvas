@@ -10,17 +10,17 @@ Il est impératif de bien préparer et documenter ses données afin d’optimise
 
 Dans le **PGD**, il faut indiquer de manière précise quelles méthodes sont utilisées pour recueillir ou produire les données. De même, il est recommandé de réaliser ce travail de documentation au fur et à mesure de l'étape de traitement des données.
 
-## Check-list des métadonnées à indiquer dans le PGD
-
 <details>
 
 <summary>Cas des données collectées</summary>
 
-Indiquez :&#x20;
+Indiquer :
 
-* [ ] leur provenance (corpus, archives…)
-* [ ] sur quels critères elles ont été sélectionnées
-* [ ] les conditions de réutilisations préexistantes de ces données.
+• leur provenance (corpus, archives…),
+
+• sur quels critères elles ont été sélectionnées
+
+• les conditions de réutilisations préexistantes de ces données.
 
 </details>
 
@@ -28,12 +28,15 @@ Indiquez :&#x20;
 
 <summary>Cas des données produites</summary>
 
-Indiquez :&#x20;
+Indiquer :
 
-* [ ] le contexte de création
-* [ ] les méthodes utilisées
-* [ ] les protocoles suivis ou établis
-* [ ] les contrôles qualité mis en place.
+• le contexte de création,
+
+• les méthodes utilisées,
+
+• les protocoles suivis ou établis,
+
+• les contrôles qualité mis en place.
 
 </details>
 

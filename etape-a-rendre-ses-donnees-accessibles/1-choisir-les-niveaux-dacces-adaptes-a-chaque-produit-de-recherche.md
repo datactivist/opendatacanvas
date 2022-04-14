@@ -2,8 +2,6 @@
 
 Pour être FAIR, les métadonnées doivent rester accessibles même si les données ne le sont plus. Avec le temps, les données peuvent disparaître. Les métadonnées peuvent être très utiles dans ce cas, car elles permettront d'avoir de précieuses informations sur le jeu de données disparu et de laisser la possibilité à d'autres chercheurs de reprendre et poursuivre les recherches associées. L'entrepôt a un rôle majeur dans ce cas, étant donné que c'est lui qui héberge les données et métadonnées associées.
 
-## ****
-
 ## **Propriété intellectuelle des données de recherche**
 
 Les droits s'appliquant aux données de recherche sont différents du droit d’auteur auquel se réfèrent les publications.

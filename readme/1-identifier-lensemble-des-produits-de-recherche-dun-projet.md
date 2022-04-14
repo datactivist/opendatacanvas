@@ -1,7 +1,7 @@
 # 1. Identifier l'ensemble des produits de recherche d'un projet
 
 {% hint style="info" %}
-La première étape pour commencer à rédiger son PGD est d'identifier tous les produits de recherche de votre projet. Les données de la recherche sont hétérogènes et varient selon les disciplines. Vous retrouverez dans cette page les définitions de l'ensemble des produits de recherche proposés par DMP OPIDoR ainsi que des exemples concrets via des PGD publics.
+La première étape pour commencer à rédiger son PGD est d'identifier tous les produits de recherche de votre projet. Les données de la recherche sont hétérogènes et varient selon les disciplines. Vous retrouverez dans cette page les définitions de l'ensemble des produits de recherche proposés par DMP OPIDoR ainsi que des exemples concrets via des PGD publics.&#x20;
 {% endhint %}
 
 ## Définition des données de la recherche
@@ -53,8 +53,6 @@ L'utilisation de logiciel(s) peut intervenir à toutes les étapes de la recherc
 
 **Pour une bonne gestion et un partage optimal des données de recherche, une attention particulière doit donc être portée aux logiciels !**
 {% endhint %}
-
-## Galerie d'exemples de produits de recherche
 
 ***
 
