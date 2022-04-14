@@ -24,4 +24,6 @@ Les protocoles propriétaires ou dont la documentation n'est pas accessible publ
 
 </details>
 
+Stockage et sauvegarde pendant le processus de recherche&#x20;
+
 **Crédits : Inist-CNRS -** [**PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE**](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)****

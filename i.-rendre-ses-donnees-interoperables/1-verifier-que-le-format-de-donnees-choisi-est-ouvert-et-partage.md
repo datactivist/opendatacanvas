@@ -8,6 +8,8 @@ Le choix d’un format peut être guidé par :
 * les usages de la communauté scientifique de la discipline,
 * les logiciels ou équipements utilisés.
 
-
+{% hint style="info" %}
+**Dans tous les cas, il faut mentionner dans le PGD quels formats seront utilisés.**
+{% endhint %}
 
 **Crédits : Inist-CNRS -** [**PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE**](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)****
