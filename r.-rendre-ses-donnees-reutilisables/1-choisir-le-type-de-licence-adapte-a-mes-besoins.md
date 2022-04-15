@@ -1,5 +1,9 @@
 # 1. Choisir le type de licence adapté à mes besoins
 
+{% hint style="info" %}
+Pour rendre vos données réutilisables, il est important d'attribuer une licence et de la mentionner dans les métadonnées&#x20;
+{% endhint %}
+
 Attribuer une licence à vos données est très important car cela permet de bien définir les modalités de réutilisation et de les afficher clairement. Il est recommandé de renseigner la licence dans les métadonnées au fur et à mesure de l’avancée du projet, avec une attention particulière :
 
 * au moment du partage des données,
