@@ -86,7 +86,7 @@ L’entrepôt de données DataSuds propose aux scientifiques de l’IRD et à le
 
 <details>
 
-<summary>Research.data.gouv (national)</summary>
+<summary>Recherche data gouv (national)</summary>
 
 La plateforme nationale Recherche Data Gouv propose un entrepôt de données pluridisciplinaire qui sera opérationnel dès 2022 : il assure la souveraineté française sur les données, est conforme aux droits français et communautaire, garantit la pérennité et l’indexation des données stockées, suivant les principes FAIR. C’est l’entrepôt de choix quand aucun entrepôt disciplinaire n’existe.
 
