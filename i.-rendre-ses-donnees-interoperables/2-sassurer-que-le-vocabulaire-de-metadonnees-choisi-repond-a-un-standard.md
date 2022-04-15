@@ -2,7 +2,7 @@
 
 Afin de renseigner ses métadonnées au fur et à mesure du projet il est recommandé d'utiliser un standard de métadonnées propre à votre discipline ou adapté à vos besoins. S'il n'en existe pas il faudra créer un schéma de métadonnées.
 
-Un standard de métadonnées propose un ensemble d’éléments (par exemple titre, auteur, date de production) à utiliser pour décrire une ressource. Il précise les contraintes qui peuvent s’appliquer à ces éléments (par exemple, élément obligatoire ou à valeur unique). Il spécifie également la syntaxe à utiliser pour chaque élément (par exemple pour une date : aaaa-mm-jj)
+Un standard de métadonnées propose un ensemble d’éléments (par exemple titre, auteur, date de production) à utiliser pour décrire une ressource. Il précise les contraintes qui peuvent s’appliquer à ces éléments (par exemple, élément obligatoire ou à valeur unique). Il spécifie également la syntaxe à utiliser pour chaque élément (par exemple pour une date : aaaa-mm-jj).
 
 ## **Quelques exemples de standards de métadonnées**&#x20;
 
@@ -12,7 +12,7 @@ Par exemple l'organisation OpenAIRE utilise [DataCite Metadata Schema](https://r
 
 ![Les 15 éléments du Dublin Core  Source : DORANuM](../.gitbook/assets/standard\_DC.png)
 
-
+* TEI (Text Encoding Initiative)
 
 ## **La différence entre schéma et standard**
 
@@ -41,6 +41,8 @@ Consulter la section "Disciplinary Metadata" du site du Digital Curation Centre
 {% embed url="https://rd-alliance.github.io/metadata-directory/standards" %}
 Consulter le "RDA Metadata Standards Directory" de la Research Data Alliance
 {% endembed %}
+
+Vous pouvez aussi consulter le chapitre dédié aux métadonnées dans le [**Guide de bonnes pratiques : Gestion et valorisation des données de recherche**](https://ordar.otelo.univ-lorraine.fr/record?id=10.24396/ORDAR-1) rédigé par OTELo et l’Inist-CNRS. Il propose un modèle de métadonnées pour apporter une information minimale et suffisante pour comprendre et reproduire ses données.&#x20;
 
 ***
 
