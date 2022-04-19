@@ -125,7 +125,7 @@ Les critères sont les suivants :&#x20;
 
 ![Icônes symbolisant les critères auxquels répondent ou non les entrepôts de données sur re3data](../.gitbook/assets/criteres\_entrepot.png)
 
-Cat OPIDoR
+**Cat OPIDoR**
 
 Pour trouver un entrepôt de données français, vous pouvez aussi utiliser l'outil [Cat OPIDoR](https://cat.opidor.fr/index.php/Cat\_OPIDoR,\_wiki\_des\_services\_d%C3%A9di%C3%A9s\_aux\_donn%C3%A9es\_de\_la\_recherche) : **Cat**alogue pour une **O**ptimisation du **P**artage et de l’**I**nteropérabilité des **Do**nnées de la **R**echerche.
 

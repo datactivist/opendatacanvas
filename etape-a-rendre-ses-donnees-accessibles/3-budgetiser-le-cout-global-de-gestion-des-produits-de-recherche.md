@@ -1,7 +1,7 @@
 # 3. Budgétiser le coût global de gestion des produits de recherche
 
 {% hint style="info" %}
-La gestion de vos données tout au long du cycle de vie passe par des étapes de stockage, sécurisation, archivage. Ces étapes peuvent s'avérer coûteuses, il est dans votre interêt de réfléchir au coût que cela peut générer en amont du projet afin d'y assurer le budget nécessaire. Dans cette partie vous trouverez des ressources et exemples qui peuvent être utiles à votre réflexion.&#x20;
+La gestion de vos données tout au long du cycle de vie passe par des étapes de stockage, sécurisation, archivage… Ces étapes peuvent s'avérer coûteuses, il est dans votre interêt de réfléchir au coût que cela peut générer en amont du projet afin d'y assurer le budget nécessaire. Dans cette partie vous trouverez des ressources et exemples qui peuvent être utiles à votre réflexion.&#x20;
 {% endhint %}
 
 Pour rappel :
