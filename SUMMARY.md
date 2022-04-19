@@ -11,7 +11,7 @@
   * [3. Budgétiser le coût global de gestion des produits de recherche](etape-a-rendre-ses-donnees-accessibles/3-budgetiser-le-cout-global-de-gestion-des-produits-de-recherche.md)
 * [Étape I. Rendre ses données intéropérables](i.-rendre-ses-donnees-interoperables/README.md)
   * [1. Vérifier que le format de données choisi est ouvert et partagé](i.-rendre-ses-donnees-interoperables/1-verifier-que-le-format-de-donnees-choisi-est-ouvert-et-partage.md)
-  * [2. S'assurer que le vocabulaire de métadonnées choisi répond à un standard de métadonnées](i.-rendre-ses-donnees-interoperables/2-sassurer-que-le-vocabulaire-de-metadonnees-choisi-repond-a-un-standard.md)
+  * [2. S'assurer que les métadonnées répondent à un standard de métadonnées](i.-rendre-ses-donnees-interoperables/2-sassurer-que-le-vocabulaire-de-metadonnees-choisi-repond-a-un-standard.md)
   * [3. Vérifier que le vocabulaire utilisé respecte les principes FAIR](i.-rendre-ses-donnees-interoperables/3-verifier-que-le-vocabulaire-utilise-respecte-les-principes-fair.md)
 * [Étape R. Rendre ses données réutilisables](r.-rendre-ses-donnees-reutilisables/README.md)
   * [1. Choisir le type de licence adapté à mes besoins](r.-rendre-ses-donnees-reutilisables/1-choisir-le-type-de-licence-adapte-a-mes-besoins.md)
