@@ -1,7 +1,7 @@
 # 2.Vérifier la conformité juridique et éthique de la publication des données
 
 {% hint style="info" %}
-En lien avec les licences qui permettent de contextualiser la réutilisation de vos données. Des questions juridiques et éthiques peuvent se poser et il est important de les expliciter et de les mentionner dans votre PGD.
+En lien avec les licences qui permettent de contextualiser la réutilisation de vos données. Des questions juridiques et éthiques peuvent se poser selon le type de données et il est important de les mentionner dans votre PGD.
 {% endhint %}
 
 ## **Les aspects juridiques et éthiques dans le cycle de vie des données**
