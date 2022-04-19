@@ -1,8 +1,11 @@
-# Étape F. Rendre les données faciles à trouver
+# Préconisations pour bien démarrer l'atelier
 
-> **Le principe F**  facilite la découverte des données par les humains et les systèmes informatiques
+Lors de cet atelier nous utiliserons la plateforme DMP OPIDoR pour la rédaction du plan de gestion des données.&#x20;
 
-{% hint style="info" %}
-Cette première étape vous permettra de trouver les ressources et recommandations nécessaires afin de rendre vos données faciles à trouver par une personne ou une machine. En se basant sur les principes FAIR, vous aurez ainsi les clés pour rédiger les parties du PGD correspondantes à cette étape.&#x20;
-{% endhint %}
+* [ ] Ouvrir un compte sur [DMP OPIDoR](https://dmp.opidor.fr/plans) en accès individuel ou institutionnel selon votre établissement&#x20;
+* [ ] Sélectionner le modèle de PGD&#x20;
+* [ ] Renseigner les informations générales (renseignements sur le projet et renseignements sur le plan)
+* [ ] Associer les contributeurs au plan
+
+
 

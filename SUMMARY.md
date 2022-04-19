@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Étape F. Rendre les données faciles à trouver](README.md)
+* [Préconisations pour bien démarrer l'atelier](README.md)
+* [Étape F. Rendre les données faciles à trouver](<README (1).md>)
   * [1. Identifier l'ensemble des produits de recherche d'un projet](readme/1-identifier-lensemble-des-produits-de-recherche-dun-projet.md)
   * [2. Préparer les métadonnées et la documentation associées à chaque produit de recherche](readme/2-preparer-les-metadonnees-et-la-documentation-associees-a-chaque-produit-de-recherche.md)
   * [3. Choisir un entrepôt pour stocker les produits de recherche identifiés](readme/3-choisir-un-entrepot-pour-stocker-les-produits-de-recherche-identifies.md)
