@@ -29,7 +29,7 @@ Une partie du PGD concerne les aspects éthiques :
 * En signant la charte d'éthique, le chercheur prend un engagement important
 * En cas de recours à un comité d’éthique, expliquer le processus de recrutement et d’évaluation.
 
-Pour aller plus loin :
+## Pour aller plus loin :
 
 <details>
 
@@ -38,5 +38,7 @@ Pour aller plus loin :
 [https://www.ouvrirlascience.fr/wp-content/uploads/2018/11/Guide\_Juridique\_V2.pdf](https://www.ouvrirlascience.fr/wp-content/uploads/2018/11/Guide\_Juridique\_V2.pdf)
 
 </details>
+
+
 
 **Crédits : Inist-CNRS -** [**PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE**](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)****
