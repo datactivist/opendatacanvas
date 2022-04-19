@@ -1,7 +1,79 @@
 # 1. Choisir les niveaux d'accès adaptés à chaque produit de recherche
 
 {% hint style="info" %}
-Pour être FAIR, les métadonnées doivent rester accessibles même si les données ne le sont plus. Avec le temps, les données peuvent disparaître. Les métadonnées peuvent être très utiles dans ce cas, car elles permettront d'avoir de précieuses informations sur le jeu de données disparu et de laisser la possibilité à d'autres chercheurs de reprendre et poursuivre les recherches associées. L'entrepôt a un rôle majeur dans ce cas, étant donné que c'est lui qui héberge les données et métadonnées associées.
+En premier lieu, il est nécessaire de déterminer quelles données pourront être accessibles lors de votre projet et comment le seront-elles.&#x20;
+{% endhint %}
+
+## **Communicabilité des données**&#x20;
+
+La communicabilité des données peut être conditionnée par **:**&#x20;
+
+\- la nature ou le type des données
+
+\- l’origine des données
+
+\- leur(s) utilisation(s).
+
+Elle peut être empêchée temporairement ou définitivement.&#x20;
+
+Toute restriction doit être **mentionnée et expliquée dans le PGD.**
+
+<details>
+
+<summary><strong>Communication obligatoire pour certaines disciplines</strong></summary>
+
+\- données géographiques&#x20;
+
+\- données environnementales...
+
+</details>
+
+<details>
+
+<summary><strong>Communication sous conditions</strong></summary>
+
+\- données protégées par le droit d'auteur ou par contrat
+
+\- données personnelles
+
+\- statistiques...
+
+</details>
+
+<details>
+
+<summary><strong>Communication interdite par principe</strong> </summary>
+
+\- secret professionnel
+
+\- secret défense
+
+\- sécurité de l'établissement...
+
+</details>
+
+## **Accès**&#x20;
+
+Il existe plusieurs manières de limiter l'accès à vos données :&#x20;
+
+{% tabs %}
+{% tab title="Dispositif d'accès" %}
+&#x20;Vous pouvez limiter l'accès à vos données au moyen d'un mot de passe.
+{% endtab %}
+
+{% tab title="Délai de mise à disposition" %}
+L'accès à vos données peut être conditionné dans le temps avec un délai de mise à disposition défini, le plus souvent, en fonction des pratiques disciplinaires. &#x20;
+
+Ce délai peut permettre aussi de disposer du temps nécessaire pour le dépôt de brevets.&#x20;
+{% endtab %}
+
+{% tab title="Accès limité à certaines personnes" %}
+Il peut être pertinent selon les cas de limiter l'accès de vos données uniquement aux membres du consortium ou à une communauté scientifique par exemple.
+{% endtab %}
+{% endtabs %}
+
+{% hint style="info" %}
+**ll est conseillé d'avoir recours au cryptage de vos données sensibles pour éviter des intrusions malveillantes.**
 {% endhint %}
 
 ## **Propriété intellectuelle des données de recherche**
@@ -31,6 +103,10 @@ Exemples :
 Maintenir des jeux de données en ligne a un coût. Avec le temps, il y a des risques de dégradation. Dans ce cas, les jeux de données peuvent ne plus être disponibles. De même, des restrictions d'accès peuvent exister.
 
 Si les données disparaissent ou sont inaccessibles, les métadonnées continueront à fournir de précieuses informations pour que d'autres chercheurs puissent connaître l'existence des données, contacter les personnes ressources ou encore retrouver les articles associés aux données.
+
+{% hint style="info" %}
+Pour être FAIR, les métadonnées doivent rester accessibles même si les données ne le sont plus. Avec le temps, les données peuvent disparaître. Les métadonnées peuvent être très utiles dans ce cas, car elles permettront d'avoir de précieuses informations sur le jeu de données disparu et de laisser la possibilité à d'autres chercheurs de reprendre et poursuivre les recherches associées. L'entrepôt a un rôle majeur dans ce cas, étant donné que c'est lui qui héberge les données et métadonnées associées.
+{% endhint %}
 
 ## **Choisir un niveau d'authentification**
 

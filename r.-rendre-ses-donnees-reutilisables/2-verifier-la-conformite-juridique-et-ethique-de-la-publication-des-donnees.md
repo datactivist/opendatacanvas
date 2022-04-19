@@ -4,6 +4,12 @@
 En lien avec les licences qui permettent de contextualiser la réutilisation de vos données. Des questions juridiques et éthiques peuvent se poser et il est important de les expliciter et de les mentionner dans votre PGD.
 {% endhint %}
 
+## **Les aspects juridiques et éthiques dans le cycle de vie des données**
+
+Les aspects juridiques et éthiques accompagnent tout le cycle de vie des données. Dès le début du projet, il faut s'y intéresser et se poser les bonnes questions.&#x20;
+
+En cas de doute, ne pas hésiter à prendre conseil auprès des juristes de votre institution.
+
 ## **Intégrité scientifique et éthique des données de recherche**
 
 Il existe des enjeux pratiques, éthiques et intellectuels inhérents à la recherche. Les bonnes pratiques reposent sur des principes fondamentaux qui orientent les chercheurs dans leurs travaux et dans leur engagement.
