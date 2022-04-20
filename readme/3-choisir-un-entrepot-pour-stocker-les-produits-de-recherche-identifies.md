@@ -1,34 +1,8 @@
 # 3. Choisir un entrepôt pour stocker les produits de recherche identifiés
 
 {% hint style="info" %}
-Pour rendre ses données faciles à trouver, il est important de choisir un entrepôt où déposer vos données afin de les ouvrir. Le choix de l'entrepôt repose sur vos besoins et/ou contraintes, vous trouverez dans cette page des éléments permettant de guider vos choix afin de sélectionner l'entrepôt le plus adapté.
+Pour rendre ses données faciles à trouver, il est important de choisir un entrepôt où déposer vos données afin de les ouvrir dans la mesure du possible. Le choix de l'entrepôt repose sur vos besoins et/ou contraintes, vous trouverez dans cette page des éléments permettant de guider vos choix afin de sélectionner l'entrepôt le plus adapté.
 {% endhint %}
-
-## **Préparer ses données selon les principes FAIR**
-
-Pour que le partage des données soit efficace, il faut les préparer selon les principes FAIR, et ce, quelle que soit l'ouverture des données envisagée, totale ou partielle, ouverte ou sécurisée...
-
-Voici une check-list pour bien préparer ses données :
-
-* [ ] Sélectionner les données à partager
-
-L'ensemble des données n'est pas nécessairement destiné à être partagé. L'équipe de recherche doit sélectionner les jeux de données qu'elle souhaite partager et, pour chacun d'eux, définir les modalités d'accès.
-
-* [ ] Choisir le bon format de données
-
-Vérifier la compatibilité et l’interopérabilité des formats de données et migrer si nécessaire vers un format adapté, le plus ouvert possible.
-
-* [ ] Préparez les codes sources
-
-Préparer si nécessaire les codes sources (ex : scripts) qui permettront de lire et traiter les données.
-
-* [ ] Compléter et enrichir les métadonnées
-
-Compléter et enrichir les métadonnées en fonction de l’entrepôt choisi :
-
-* si ce n’est pas déjà fait, choisir un standard de métadonnées,
-* s’il n’en existe pas d’adapté, créer un schéma de métadonnées,
-* compléter les champs pour chaque jeu de données, suivant le standard adopté.
 
 ## **Dépôt des données dans un entrepôt**
 
