@@ -16,14 +16,6 @@ Les protocoles propriétaires ou dont la documentation n'est pas accessible publ
 {% endtab %}
 {% endtabs %}
 
-<details>
-
-<summary>Logigramme de l’Institut Pasteur relatif aux questions juridiques liées à la diffusion des données de la recherche</summary>
-
-[https://www.pasteur.fr/fr/file/20707/download](https://www.pasteur.fr/fr/file/20707/download)
-
-</details>
-
 ## Stockage et sauvegarde pendant le processus de recherche&#x20;
 
 Les objectifs sont de :

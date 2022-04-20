@@ -24,11 +24,17 @@ L'accès à de nombreux [DMP publics ](https://dmp.opidor.fr/public\_plans)vous 
 
 ![Partie informations générales du PGD projet HyperOtlet](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.52.04.png>) ![Partie informations générales du PGD projet HyperOtlet](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.50.43.png>)
 
+## Liens utiles :&#x20;
+
 Pour plus de questions liées à l'utilisation de DMP OPIDoR vous retrouverez la FAQ concernant l'outil sur le site Opidor :&#x20;
 
 {% embed url="https://opidor.fr/planifier#:~:text=Pour%20devenir%20administrateur%2C%20vous%20devez,accordera%20les%20droits%20d'administration." %}
 Foire aux questions concernant l'outil DMP OPIDoR
 {% endembed %}
 
+Vous trouverez dans ce document ci-dessous un guide de saisie p.18 qui pourra vous aider à rédiger les informations générales.&#x20;
 
+{% embed url="https://archivesic.ccsd.cnrs.fr/sic_01690547/document" %}
+A.CARTIER, R.DELEMONTEZ, M.MOYSAN, N.REYMONET. Réaliser un plan de gestion de données « FAIR » : guide de rédaction (v2, 2018)
+{% endembed %}
 

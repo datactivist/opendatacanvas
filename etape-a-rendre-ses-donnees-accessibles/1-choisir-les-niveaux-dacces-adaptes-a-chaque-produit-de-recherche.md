@@ -76,15 +76,7 @@ Il peut être pertinent selon les cas de limiter l'accès de vos données unique
 **ll est conseillé d'avoir recours au cryptage de vos données sensibles pour éviter des intrusions malveillantes.**
 {% endhint %}
 
-## **Propriété intellectuelle des données de recherche**
-
-Les droits s'appliquant aux données de recherche sont différents du droit d’auteur auquel se réfèrent les publications.
-
-Les données relèvent d’un **régime lié au droit des bases de données.** Dans ce cas, le droit de propriété appartient légalement au « producteur » de la base de données, compris au sens de la personne qui réalise l’investissement financier et matériel nécessaire à la constitution de la base. Il s’agira donc **en général de l’établissement de tutelle des chercheurs qui sera considéré comme le titulaire effectif du droit de propriété**.
-
-Mais si ce droit existe formellement, il ne peut plus être opposé aux droits des ré-utilisateurs des données (principe d’ouverture des données). En effet, la **loi pour une République numérique** a explicitement « neutralisé » le droit des bases de données des administrations pour faire primer le **principe de libre réutilisation**.
-
-**Il en résulte que les données produites par les chercheurs sont, par principe, ouvertes par défaut.**
+## ****
 
 ## **Droits et obligations du chercheur**
 

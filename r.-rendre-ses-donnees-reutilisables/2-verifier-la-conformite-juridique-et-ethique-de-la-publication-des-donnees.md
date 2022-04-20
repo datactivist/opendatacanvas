@@ -10,6 +10,16 @@ Les aspects juridiques et éthiques accompagnent tout le cycle de vie des donné
 
 En cas de doute, ne pas hésiter à prendre conseil auprès des juristes de votre institution.
 
+## **Propriété intellectuelle des données de recherche**
+
+Les droits s'appliquant aux données de recherche sont différents du droit d’auteur auquel se réfèrent les publications.
+
+Les données relèvent d’un **régime lié au droit des bases de données.** Dans ce cas, le droit de propriété appartient légalement au « producteur » de la base de données, compris au sens de la personne qui réalise l’investissement financier et matériel nécessaire à la constitution de la base. Il s’agira donc **en général de l’établissement de tutelle des chercheurs qui sera considéré comme le titulaire effectif du droit de propriété**.
+
+Mais si ce droit existe formellement, il ne peut plus être opposé aux droits des ré-utilisateurs des données (principe d’ouverture des données). En effet, la **loi pour une République numérique** a explicitement « neutralisé » le droit des bases de données des administrations pour faire primer le **principe de libre réutilisation**.
+
+**Il en résulte que les données produites par les chercheurs sont, par principe, ouvertes par défaut.**
+
 ## **Intégrité scientifique et éthique des données de recherche**
 
 Il existe des enjeux pratiques, éthiques et intellectuels inhérents à la recherche. Les bonnes pratiques reposent sur des principes fondamentaux qui orientent les chercheurs dans leurs travaux et dans leur engagement.
