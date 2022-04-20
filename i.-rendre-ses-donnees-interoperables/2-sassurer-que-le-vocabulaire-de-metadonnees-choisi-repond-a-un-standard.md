@@ -4,9 +4,9 @@ Afin de renseigner ses métadonnées au fur et à mesure du projet il est recomm
 
 Un standard de métadonnées propose un ensemble d’éléments (par exemple titre, auteur, date de production) à utiliser pour décrire une ressource. Il précise les contraintes qui peuvent s’appliquer à ces éléments (par exemple, élément obligatoire ou à valeur unique). Il spécifie également la syntaxe à utiliser pour chaque élément (par exemple pour une date : aaaa-mm-jj).
 
-## **Quelques exemples de standards de métadonnées**&#x20;
+## **Quelques exemples de standards de métadonnées**
 
-* **Dublin Core :** Le Dublin Core est un standard **international et multidisciplinaire** très utilisé. Il comporte **15 éléments** qui constituent le **minimum exigé** avec des éléments relatifs au contenu et à la propriété intellectuelle.&#x20;
+* **Dublin Core :** Le Dublin Core est un standard **international et multidisciplinaire** très utilisé. Il comporte **15 éléments** qui constituent le **minimum exigé** avec des éléments relatifs au contenu et à la propriété intellectuelle.
 
 Par exemple l'organisation OpenAIRE utilise [DataCite Metadata Schema](https://rdamsc.bath.ac.uk/msc/m11) et [Dublin Core](https://rdamsc.bath.ac.uk/msc/m15).
 
@@ -32,7 +32,7 @@ C'est un **modèle** !
 
 Pour trouver quels standards sont utilisés dans votre discipline, vous pouvez interroger vos collègues chercheurs mais aussi informaticiens et professionnels de l'IST (information scientifique et technique) et voir quelles sont les pratiques dans votre domaine.
 
-Il existe aussi plusieurs répertoires et sites, parmi lesquels :
+## Catalogues de standards de métadonnées
 
 {% embed url="https://www.dcc.ac.uk/guidance/standards/metadata" %}
 Consulter la section "Disciplinary Metadata" du site du Digital Curation Centre
@@ -44,9 +44,9 @@ Consulter le "RDA Metadata Standards Directory" de la Research Data Alliance
 
 **Liens utiles :**
 
-Vous pouvez aussi consulter le chapitre dédié aux métadonnées dans le [**Guide de bonnes pratiques : Gestion et valorisation des données de recherche**](https://ordar.otelo.univ-lorraine.fr/record?id=10.24396/ORDAR-1) rédigé par OTELo et l’Inist-CNRS. Il propose un modèle de métadonnées pour apporter une information minimale et suffisante pour comprendre et reproduire ses données.&#x20;
+Vous pouvez aussi consulter le chapitre dédié aux métadonnées dans le [**Guide de bonnes pratiques : Gestion et valorisation des données de recherche**](https://ordar.otelo.univ-lorraine.fr/record?id=10.24396/ORDAR-1) rédigé par OTELo et l’Inist-CNRS. Il propose un modèle de métadonnées pour apporter une information minimale et suffisante pour comprendre et reproduire ses données.
 
-Vous pouvez également consulter ce [catalogue de métadonnées](https://rdamsc.bath.ac.uk/subject-index) développé par Research Data Alliance géré par l'Université de Bath. Cette ressource vous permettra d'y trouver des informations précises sur les normes de métadonnées selon votre discipline spécifique.&#x20;
+Vous pouvez également consulter ce [catalogue de métadonnées](https://rdamsc.bath.ac.uk/subject-index) développé par Research Data Alliance géré par l'Université de Bath. Cette ressource vous permettra d'y trouver des informations précises sur les normes de métadonnées selon votre discipline spécifique.
 
 ***
 
