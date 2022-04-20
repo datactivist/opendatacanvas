@@ -2,7 +2,7 @@
 
 Lors de cet atelier nous utiliserons la plateforme [DMP OPIDoR](https://dmp.opidor.fr) pour la rédaction du Plan de Gestion des Données (PGD).
 
-Voici une check-list pour vous familiariser avec l'outil et commencer à rédiger votre PGD  :
+Voici une check-list pour vous familiariser avec l'outil et commencer à rédiger votre PGD :
 
 * [ ] S'inscrire sur DMP Opidor, en accès individuel ou institutionnel selon votre établissement (si vous n'avez pas encore de compte)
 * [ ] Créer un plan en sélectionnant le modèle de PGD selon votre établissement ou le financeur du projet (ANR, Commission européenne, ERC…)
@@ -26,8 +26,8 @@ L'accès à de nombreux [DMP publics ](https://dmp.opidor.fr/public\_plans)vous 
 
 ## Lien utile :
 
-Pour plus de questions liées à la plateforme DMP OPIDoR vous retrouverez la FAQ concernant l'outil sur le site Opidor :
+Pour plus de questions liées à la plateforme DMP OPIDoR vous retrouverez la FAQ concernant l'outil sur le site Opidor :&#x20;
 
-{% embed url="https://opidor.fr/planifier#:~:text=Pour%20devenir%20administrateur%2C%20vous%20devez,accordera%20les%20droits%20d" %}
-Foire aux questions concernant l'outil DMP OPIDoR
+{% embed url="https://opidor.fr/planifier#faqService" %}
+FAQ Opidor
 {% endembed %}
