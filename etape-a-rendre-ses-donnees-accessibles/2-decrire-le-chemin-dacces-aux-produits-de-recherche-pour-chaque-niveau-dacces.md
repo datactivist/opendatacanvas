@@ -44,11 +44,11 @@ Il est recommandé d'éviter au maximum les outils du type One Drive, Google Dri
 **Dans tous les cas, ne pas hésiter à se rapprocher de son établissement afin de connaitre les espaces de stockage sécurisés mis à disposition.**
 {% endhint %}
 
+## **Utiliser un protocole libre et ouvert**
+
 
 
 Pour être FAIR, les données doivent pouvoir être récupérables via un protocole de communication standardisé. Il existe plusieurs protocoles qui sont destinés à des types de communications particuliers. Le HTTP et le FTP sont des protocoles standards servant respectivement à distribuer des pages Web et à transférer des fichiers. L'entrepôt sur lequel vos données sont déposées devrait utiliser des protocoles standards tels que le HTTP et le FTP.
-
-**Utiliser un protocole libre et ouvert**
 
 Les protocoles de communication libres et ouverts sont librement utilisables et interopérables. Ils peuvent fonctionner avec plusieurs logiciels, contrairement aux protocoles propriétaires. Ils facilitent ainsi le libre accès aux données. Leur documentation technique étant accessible publiquement, les nouveaux outils qui verront le jour pourront s'appliquer avec ces protocoles.
 

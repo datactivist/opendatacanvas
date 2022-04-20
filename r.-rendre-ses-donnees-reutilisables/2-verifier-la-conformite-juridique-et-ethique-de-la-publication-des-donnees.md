@@ -49,6 +49,10 @@ Une partie du PGD concerne les aspects éthiques :
 
 </details>
 
+Exemple de réponse pour le projet[ "Bridge Research through Interoperable Data Governance and Environments"](https://dmp.opidor.fr/plans/10339/export.pdf) sur le modèle PGD ANR français :&#x20;
+
+![DMP Public projet "Bridge Research through Interoperable Data Governance and Environments" - section Exigences légales et éthiques, codes de conduite](<../.gitbook/assets/Capture d’écran 2022-04-20 à 13.42.49.png>)
+
 
 
 Crédits : Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
