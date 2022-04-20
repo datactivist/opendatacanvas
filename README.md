@@ -1,8 +1,8 @@
 # Préconisations pour bien démarrer l'atelier
 
-Lors de cet atelier nous utiliserons la plateforme [DMP OPIDoR](https://dmp.opidor.fr) pour la rédaction du plan de gestion des données.&#x20;
+Lors de cet atelier nous utiliserons la plateforme [DMP OPIDoR](https://dmp.opidor.fr) pour la rédaction du Plan de Gestion des Données (PGD).
 
-Voici un check-list vous permettant de vous familiariser avec l'outil et de commencer à inscrire les informations de votre projet en amont de la partie "rédiger" :&#x20;
+Voici une check-list pour vous familiariser avec l'outil et commencer à rédiger votre PGD  :
 
 * [ ] S'inscrire sur DMP Opidor, en accès individuel ou institutionnel selon votre établissement (si vous n'avez pas encore de compte)
 * [ ] Créer un plan en sélectionnant le modèle de PGD selon votre établissement ou le financeur du projet (ANR, Commission européenne, ERC…)
@@ -15,26 +15,19 @@ Voici un check-list vous permettant de vous familiariser avec l'outil et de comm
 ![Modèle PGD ANR : Partie "Contributeurs" à remplir sur DMP OPIDoR](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.36.18.png>)
 
 {% hint style="info" %}
-Pensez à bien associer les affiliations des contributeurs ainsi que leurs identifiants (ORCID).
+Pensez à bien renseigner les affiliations (i.e. établissements auxquels ils sont rattachés) des contributeurs ainsi que leurs identifiants (ORCID).
 {% endhint %}
 
-Une fois le plan créé et les informations générales remplies, vous pouvez dès à présent commencer à **lister vos produits de recherche** et décrire leur contexte de réutilisation et/ou de collecte au sein de votre projet.&#x20;
+Une fois le plan créé et les informations générales remplies, vous pouvez dès à présent commencer à **lister vos produits de recherche** et décrire leur contexte de réutilisation et/ou de collecte au sein de votre projet.
 
-L'accès à de nombreux [DMP publics ](https://dmp.opidor.fr/public\_plans)vous permettra également de vous en inspirer. Par exemple ce PGD pour le projet "PGD HyperOtlet" :&#x20;
+L'accès à de nombreux [DMP publics ](https://dmp.opidor.fr/public\_plans)vous permettra également de vous en inspirer. Par exemple ce PGD pour le projet "PGD HyperOtlet" :
 
 ![Partie informations générales du PGD public projet HyperOtlet](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.52.04.png>) ![Partie informations générales du PGD public projet HyperOtlet](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.50.43.png>)
 
-## Liens utiles :
+## Lien utile :
 
-Pour plus de questions liées à l'utilisation de DMP OPIDoR vous retrouverez la FAQ concernant l'outil sur le site Opidor :&#x20;
+Pour plus de questions liées à la plateforme DMP OPIDoR vous retrouverez la FAQ concernant l'outil sur le site Opidor :
 
-{% embed url="https://opidor.fr/planifier#:~:text=Pour%20devenir%20administrateur%2C%20vous%20devez,accordera%20les%20droits%20d'administration." %}
+{% embed url="https://opidor.fr/planifier#:~:text=Pour%20devenir%20administrateur%2C%20vous%20devez,accordera%20les%20droits%20d" %}
 Foire aux questions concernant l'outil DMP OPIDoR
 {% endembed %}
-
-Vous trouverez dans ce document ci-dessous un guide de saisie p.18 qui pourra vous aider à rédiger les informations générales.&#x20;
-
-{% embed url="https://archivesic.ccsd.cnrs.fr/sic_01690547/document" %}
-A.CARTIER, R.DELEMONTEZ, M.MOYSAN, N.REYMONET. Réaliser un plan de gestion de données « FAIR » : guide de rédaction (v2, 2018)
-{% endembed %}
-
