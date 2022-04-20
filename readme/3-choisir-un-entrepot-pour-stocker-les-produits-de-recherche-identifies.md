@@ -10,9 +10,9 @@ Le but est de partager les données de recherche du projet dans des conditions o
 
 Pour cela, il faut déposer les **données,** et les **métadonnées** associées, dans l'entrepôt choisi, sans oublier les **codes sources** nécessaires à la lecture et à la compréhension de celles-ci.
 
-Les entrepôts permettent de stocker des données de recherche, d'y accéder et de les réutiliser.  Certains entrepôts permettent de **rendre accessible uniquement les métadonnées** pour signaler l’existence de données en accès fermé.
+Les entrepôts permettent de stocker des données de recherche, d'y accéder et de les réutiliser. Certains entrepôts permettent de **rendre accessible uniquement les métadonnées** pour signaler l’existence de données en accès fermé.
 
-&#x20;Il existe différentes catégories d'entrepôts : les entrepôts propres à une discipline, à un éditeur, à une institution ou multidisciplinaires.
+Il existe différentes catégories d'entrepôts : les entrepôts propres à une discipline, à un éditeur, à une institution ou multidisciplinaires.
 
 Il est recommandé de déposer vos données de préférence dans un **entrepôt disciplinaire** ou **institutionnel**.
 
@@ -28,7 +28,7 @@ Il est recommandé de déposer vos données de préférence dans un **entrepôt 
 **Si vous avez des difficultés à choisir un entrepôt, vous pouvez vous faire aider par les services de documentation / professionnels de l'IST .**
 {% endhint %}
 
-## **Exemples d'entrepôts disciplinaires et généralistes**
+## **Galerie d'exemples d'entrepôts disciplinaires et généralistes**
 
 Il est conseillé de privilégier le dépôt de vos données dans un **entrepôt disciplinaire**. S'il n'en existe pas dans votre domaine, vous pouvez opter pour un **entrepôt généraliste**.
 
@@ -95,7 +95,7 @@ La recherche s'effectue grâce à des filtres. La liste des résultats apparait 
 
 ![Site re3data.org - recherche par filtre](<../.gitbook/assets/Capture d’écran 2022-04-19 à 11.06.20.png>)
 
-Les critères sont les suivants :&#x20;
+Les critères sont les suivants :
 
 ![Icônes symbolisant les critères auxquels répondent ou non les entrepôts de données sur re3data](../.gitbook/assets/criteres\_entrepot.png)
 
