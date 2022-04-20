@@ -8,11 +8,15 @@ Un standard de métadonnées propose un ensemble d’éléments (par exemple tit
 
 * **Dublin Core :** Le Dublin Core est un standard **international et multidisciplinaire** très utilisé. Il comporte **15 éléments** qui constituent le **minimum exigé** avec des éléments relatifs au contenu et à la propriété intellectuelle.
 
-Par exemple l'organisation OpenAIRE utilise [DataCite Metadata Schema](https://rdamsc.bath.ac.uk/msc/m11) et [Dublin Core](https://rdamsc.bath.ac.uk/msc/m15).
-
 ![Les 15 éléments du Dublin Core  Source : DORANuM](../.gitbook/assets/standard\_DC.png)
 
-* TEI (Text Encoding Initiative)
+* **DataCite Metadata Schema**
+
+Standard lié à l’attribution d’identifiants pérennes DOI.&#x20;
+
+{% embed url="https://schema.datacite.org" %}
+
+Par exemple l'organisation OpenAIRE utilise [DataCite Metadata Schema](https://rdamsc.bath.ac.uk/msc/m11) et [Dublin Core](https://rdamsc.bath.ac.uk/msc/m15).
 
 ## **La différence entre schéma et standard**
 
@@ -46,7 +50,7 @@ Consulter le "RDA Metadata Standards Directory" de la Research Data Alliance
 
 Vous pouvez aussi consulter le chapitre dédié aux métadonnées dans le [**Guide de bonnes pratiques : Gestion et valorisation des données de recherche**](https://ordar.otelo.univ-lorraine.fr/record?id=10.24396/ORDAR-1) rédigé par OTELo et l’Inist-CNRS. Il propose un modèle de métadonnées pour apporter une information minimale et suffisante pour comprendre et reproduire ses données.
 
-Vous pouvez également consulter ce [catalogue de métadonnées](https://rdamsc.bath.ac.uk/subject-index) développé par Research Data Alliance géré par l'Université de Bath. Cette ressource vous permettra d'y trouver des informations précises sur les normes de métadonnées selon votre discipline spécifique.
+Vous pouvez également consulter ce [**Catalogue de métadonnées**](https://rdamsc.bath.ac.uk/subject-index) **** développé par Research Data Alliance géré par l'Université de Bath. Cette ressource vous permettra d'y trouver des informations précises sur les normes de métadonnées selon votre discipline spécifique.
 
 ***
 
