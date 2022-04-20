@@ -1,24 +1,14 @@
 # 2. Décrire le chemin d'accès aux produits de recherche pour chaque niveau d'accès
 
-Pour être FAIR, les données doivent pouvoir être récupérables via un protocole de communication standardisé. Il existe plusieurs protocoles qui sont destinés à des types de communications particuliers. Le HTTP et le FTP sont des protocoles standards servant respectivement à distribuer des pages Web et à transférer des fichiers. L'entrepôt sur lequel vos données sont déposées devrait utiliser des protocoles standards tels que le HTTP et le FTP.
-
-**Utiliser un protocole libre et ouvert**
-
-Les protocoles de communication libres et ouverts sont librement utilisables et interopérables. Ils peuvent fonctionner avec plusieurs logiciels, contrairement aux protocoles propriétaires. Ils facilitent ainsi le libre accès aux données. Leur documentation technique étant accessible publiquement, les nouveaux outils qui verront le jour pourront s'appliquer avec ces protocoles.
-
-{% tabs %}
-{% tab title="Protocole à utiliser" %}
-De nombreux protocoles standards sont libres et ouverts. Ex : HTTP, FTP, SMTP (Simple Mail Transfer Protocol)...
-{% endtab %}
-
-{% tab title="Protocole à éviter" %}
-Les protocoles propriétaires ou dont la documentation n'est pas accessible publiquement. Ex : Protocole Skype, Microsoft, Exchange Server…
-{% endtab %}
-{% endtabs %}
+{% hint style="info" %}
+L'accessibilité à vos données doit être mentionné dans la documentation ou les métadonnées. S'il existe des contraintes liées au type de données (sensibles, confidentielles), elles doivent figurer dans le PGD.&#x20;
+{% endhint %}
 
 ## Stockage et sauvegarde pendant le processus de recherche&#x20;
 
-Les objectifs sont de :
+La gestion des données de recherche du projet doit être réfléchie et organisée différemment en fonction de l'étape à laquelle on se situe, pendant et après le projet.
+
+La première étape concerne le **stockage sécurisé** et la **sauvegarde** des données durant toute la durée du projet. Les objectifs sont de :
 
 * garantir la sécurité des données,
 * faciliter l'accès pour l'ensemble des collaborateurs du projet.
@@ -54,4 +44,24 @@ Il est recommandé d'éviter au maximum les outils du type One Drive, Google Dri
 **Dans tous les cas, ne pas hésiter à se rapprocher de son établissement afin de connaitre les espaces de stockage sécurisés mis à disposition.**
 {% endhint %}
 
-**Crédits : Inist-CNRS -** [**PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE**](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)****
+
+
+Pour être FAIR, les données doivent pouvoir être récupérables via un protocole de communication standardisé. Il existe plusieurs protocoles qui sont destinés à des types de communications particuliers. Le HTTP et le FTP sont des protocoles standards servant respectivement à distribuer des pages Web et à transférer des fichiers. L'entrepôt sur lequel vos données sont déposées devrait utiliser des protocoles standards tels que le HTTP et le FTP.
+
+**Utiliser un protocole libre et ouvert**
+
+Les protocoles de communication libres et ouverts sont librement utilisables et interopérables. Ils peuvent fonctionner avec plusieurs logiciels, contrairement aux protocoles propriétaires. Ils facilitent ainsi le libre accès aux données. Leur documentation technique étant accessible publiquement, les nouveaux outils qui verront le jour pourront s'appliquer avec ces protocoles.
+
+{% tabs %}
+{% tab title="Protocole à utiliser" %}
+De nombreux protocoles standards sont libres et ouverts. Ex : HTTP, FTP, SMTP (Simple Mail Transfer Protocol)...
+{% endtab %}
+
+{% tab title="Protocole à éviter" %}
+Les protocoles propriétaires ou dont la documentation n'est pas accessible publiquement. Ex : Protocole Skype, Microsoft, Exchange Server…
+{% endtab %}
+{% endtabs %}
+
+##
+
+Crédits : Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)

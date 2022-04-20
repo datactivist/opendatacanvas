@@ -1,7 +1,7 @@
 # 1. Choisir les niveaux d'accès adaptés à chaque produit de recherche
 
 {% hint style="info" %}
-En premier lieu, il est nécessaire de déterminer quelles données pourront être accessibles lors de votre projet et comment le seront-elles.&#x20;
+En premier lieu, il est nécessaire de déterminer quelles données pourront être accessibles librement lors de votre projet et comment le seront-elles.&#x20;
 {% endhint %}
 
 ## **Communicabilité des données**&#x20;
@@ -76,8 +76,6 @@ Il peut être pertinent selon les cas de limiter l'accès de vos données unique
 **ll est conseillé d'avoir recours au cryptage de vos données sensibles pour éviter des intrusions malveillantes.**
 {% endhint %}
 
-## ****
-
 ## **Droits et obligations du chercheur**
 
 Cette étape est cruciale car elle détermine la latitude dont le chercheur disposera ensuite pour publier, diffuser et communiquer ses données et les résultats de ses recherches.
@@ -120,4 +118,4 @@ Si vos données doivent rester privées, spécifiez les conditions exactes dans 
 Le choix de l'entrepôt de données peut donc dépendre du protocole de communication qu'il utilise.
 {% endhint %}
 
-**Crédits : Inist-CNRS -** [**PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE**](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)****
+Crédits : Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)

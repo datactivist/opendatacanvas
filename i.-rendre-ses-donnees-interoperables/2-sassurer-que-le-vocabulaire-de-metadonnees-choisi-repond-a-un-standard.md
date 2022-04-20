@@ -1,4 +1,4 @@
-# 2. S'assurer que le vocabulaire de métadonnées choisi répond à un standard de métadonnées
+# 2. S'assurer que les métadonnées répondent à un standard de métadonnées
 
 Afin de renseigner ses métadonnées au fur et à mesure du projet il est recommandé d'utiliser un standard de métadonnées propre à votre discipline ou adapté à vos besoins. S'il n'en existe pas il faudra créer un schéma de métadonnées.
 
@@ -50,4 +50,4 @@ Vous pouvez également consulter ce [catalogue de métadonnées](https://rdamsc.
 
 ***
 
-**Crédits : Inist-CNRS -** [**PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE**](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)****
+Crédits : Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)

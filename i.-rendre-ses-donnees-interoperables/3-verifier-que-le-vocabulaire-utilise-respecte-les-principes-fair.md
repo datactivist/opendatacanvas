@@ -14,10 +14,10 @@ Les champs de métadonnées sont à renseigner avec ce vocabulaire contrôlé, n
 
 Le recours à des mots-clés, à du vocabulaire connu, reconnu et utilisé par une communauté scientifique augmente ainsi la capacité des données à être combinées avec d’autres données dans le cadre d'une réutilisation.
 
-## Pour aller plus loin&#x20;
+## Pour aller plus loin :
 
 {% embed url="https://rdamsc.bath.ac.uk/scope" %}
 Researdch Data Alliance - [Catalogue de normes de métadonnées ](https://rdamsc.bath.ac.uk/scope)
 {% endembed %}
 
-**Crédits : Inist-CNRS -** [**PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE**](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)****
+Crédits : Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
