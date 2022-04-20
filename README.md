@@ -8,11 +8,11 @@ Voici un check-list vous permettant de vous familiariser avec l'outil et de comm
 * [ ] Créer un plan en sélectionnant le modèle de PGD selon votre établissement ou le financeur du projet (ANR, Commission européenne, ERC…)
 * [ ] Renseigner les informations générales : renseignements sur le projet et renseignements sur le plan
 
-![Partie "Renseignements sur le projet" à remplir sur DMP OPIDoR](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.34.04.png>) ![Partie "Renseignement sur le plan" à remplir sur DMP OPIDoR](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.34.18.png>)
+![Modèle PGD ANR : Partie "Renseignements sur le projet" à remplir sur DMP OPIDoR](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.34.04.png>) ![Modèle PGD ANR : Partie "Renseignement sur le plan" à remplir sur DMP OPIDoR](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.34.18.png>)
 
 * [ ] Associer et mentionner les contributeurs au plan
 
-![Partie "Contributeurs" à remplir sur DMP OPIDoR](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.36.18.png>)
+![Modèle PGD ANR : Partie "Contributeurs" à remplir sur DMP OPIDoR](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.36.18.png>)
 
 {% hint style="info" %}
 Pensez à bien associer les affiliations des contributeurs ainsi que leurs identifiants (ORCID).
@@ -22,9 +22,9 @@ Une fois le plan créé et les informations générales remplies, vous pouvez d�
 
 L'accès à de nombreux [DMP publics ](https://dmp.opidor.fr/public\_plans)vous permettra également de vous en inspirer. Par exemple ce PGD pour le projet "PGD HyperOtlet" :&#x20;
 
-![Partie informations générales du PGD projet HyperOtlet](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.52.04.png>) ![Partie informations générales du PGD projet HyperOtlet](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.50.43.png>)
+![Partie informations générales du PGD public projet HyperOtlet](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.52.04.png>) ![Partie informations générales du PGD public projet HyperOtlet](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.50.43.png>)
 
-## Liens utiles :&#x20;
+## Liens utiles :
 
 Pour plus de questions liées à l'utilisation de DMP OPIDoR vous retrouverez la FAQ concernant l'outil sur le site Opidor :&#x20;
 
