@@ -95,7 +95,7 @@ S'il n’en existe pas, il faudra créer un **schéma** de métadonnées.
 
 ## Les logiciels
 
-Dans de nombreux projets de recherche, des logiciels sont utilisés, et/ou créés, et/ou adaptés. Cette utilisation de logiciels peut intervenir à toutes les étapes de la recherche, dans tous les domaines scientifiques, et se révèle essentielle. Pour reproduire une expérience, il est indispensable de connaître avec exactitude la version du logiciel employé.&#x20;
+Dans de nombreux projets de recherche, des logiciels sont utilisés, et/ou créés, et/ou adaptés. Cette utilisation de logiciels peut intervenir à toutes les étapes de la recherche, dans tous les domaines scientifiques, et se révèle essentielle. Pour reproduire une expérience, il est indispensable de connaître avec exactitude la version du logiciel employé.
 
 Le logiciel joue dans la recherche un triple rôle :
 
@@ -103,15 +103,19 @@ Le logiciel joue dans la recherche un triple rôle :
 2. il peut constituer en lui-même un **résultat de recherche**, en tant que preuve d’existence d’une solution algorithmique efficace à un problème donné
 3. il peut être lui-même **objet de recherche**. En particulier, la communauté scientifique s’intéresse aux modes de développement des logiciels et à la preuve de leurs propriétés, en lien notamment avec la transparence et la confiance dans les traitements informatisés.
 
-En fonction du projet, il s'agira donc de renseigner la version du logicielle utilisée ou de communiquer ses codes sources.&#x20;
+En fonction du projet, il s'agira donc de renseigner la version du logicielle utilisée ou de communiquer ses codes sources.
 
 {% hint style="info" %}
 Il est donc fortement recommandé de **documenter soigneusement tout ce qui concerne les logiciels et codes sources utilisés dans le cadre du projet en parallèle du travail sur les données.**[\
 ](https://doranum.fr/wp-content/uploads/parcours-GDR/index.html#)
 {% endhint %}
 
-Exemple de réponse pour le projet[ "Bridge Research through Interoperable Data Governance and Environments"](https://dmp.opidor.fr/plans/10339/export.pdf) sur le modèle PGD ANR français :&#x20;
+Exemple de réponse pour le projet[ "Bridge Research through Interoperable Data Governance and Environments"](https://dmp.opidor.fr/plans/10339/export.pdf) sur le modèle PGD ANR français section "Documentation et métadonnées" :
 
 ![DMP Public projet "Bridge Research through Interoperable Data Governance and Environments" - section "Documentation et métadonnées"](<../.gitbook/assets/Capture d’écran 2022-04-20 à 13.44.46.png>)
 
-Crédits : Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+Crédits :&#x20;
+
+Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+
+Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.

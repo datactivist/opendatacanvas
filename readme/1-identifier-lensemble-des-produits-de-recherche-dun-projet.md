@@ -77,4 +77,8 @@ Exemple de produits de recherche identifiés pour le projet[ "Bridge Research th
 ![DMP Public projet "Bridge Research through Interoperable Data Governance and Environments" - section "produits de recherche"](<../.gitbook/assets/Capture d’écran 2022-04-20 à 13.16.51.png>)
 
 \
-Crédits : Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+Crédits :&#x20;
+
+Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+
+Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.

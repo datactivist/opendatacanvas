@@ -1,10 +1,10 @@
 # 2. Décrire le chemin d'accès aux produits de recherche pour chaque niveau d'accès
 
 {% hint style="info" %}
-L'accessibilité à vos données doit être mentionné dans la documentation ou les métadonnées. S'il existe des contraintes liées au type de données (sensibles, confidentielles), elles doivent figurer dans le PGD.&#x20;
+L'accessibilité à vos données doit être mentionné dans la documentation ou les métadonnées. S'il existe des contraintes liées au type de données (sensibles, confidentielles), elles doivent figurer dans le PGD.
 {% endhint %}
 
-## Stockage et sauvegarde pendant le processus de recherche&#x20;
+## Stockage et sauvegarde pendant le processus de recherche
 
 La gestion des données de recherche du projet doit être réfléchie et organisée différemment en fonction de l'étape à laquelle on se situe, pendant et après le projet.
 
@@ -20,18 +20,18 @@ Il est très important de prévenir la perte et la dégradation des données pen
 * du format de fichier
 * de la perte de la signification du contenu
 * d'un mauvais étiquetage
-* d'un manque de rigueur dans le nom des fichiers. &#x20;
+* d'un manque de rigueur dans le nom des fichiers.
 
 Source : Marie-Claude Quidoz - [Atelier « Carnets de terrain électroniques »](http://rbdd.cnrs.fr/IMG/pdf/quidoz\_atelier2018.pdf?480/cd645e6864223eaae2a37ea4d2b45077f07b61d1), Montpellier, 28-29/03/2018
 
 ### Mesures de sauvegarde à mettre en place
 
-Une sauvegarde efficace signifie qu'il faut **dupliquer et stocker** les données à différents endroits sur différents supports selon une temporalité pertinente pour le projet.&#x20;
+Une sauvegarde efficace signifie qu'il faut **dupliquer et stocker** les données à différents endroits sur différents supports selon une temporalité pertinente pour le projet.
 
 L'idéal est d'appliquer la **règle du 3-2-1**, ce qui veut dire :
 
 * garder 3 exemplaires des données,
-* sur 2 supports ou technologies différents,&#x20;
+* sur 2 supports ou technologies différents,
 * dont 1 se trouve hors site.
 
 Dans tous les cas, il faut organiser et planifier ces sauvegardes en veillant à bien gérer les versions. A chaque point d'étape du projet, sélectionner les données à sauvegarder, à supprimer. Les différents états des données sont conservés en corrélation avec les différentes étapes de traitement, ce qui permet de revenir à une version antérieure si besoin.\
@@ -45,8 +45,6 @@ Il est recommandé d'éviter au maximum les outils du type One Drive, Google Dri
 {% endhint %}
 
 ## **Utiliser un protocole libre et ouvert**
-
-
 
 Pour être FAIR, les données doivent pouvoir être récupérables via un protocole de communication standardisé. Il existe plusieurs protocoles qui sont destinés à des types de communications particuliers. Le HTTP et le FTP sont des protocoles standards servant respectivement à distribuer des pages Web et à transférer des fichiers. L'entrepôt sur lequel vos données sont déposées devrait utiliser des protocoles standards tels que le HTTP et le FTP.
 
@@ -62,6 +60,14 @@ Les protocoles propriétaires ou dont la documentation n'est pas accessible publ
 {% endtab %}
 {% endtabs %}
 
-##
+Exemple de réponse pour le projet[ "Bridge Research through Interoperable Data Governance and Environments"](https://dmp.opidor.fr/plans/10339/export.pdf) sur le modèle PGD ANR français section "Stockage et sauvegarde pendant le processus de recherche" :
 
-Crédits : Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+![DMP Public projet "Bridge Research through Interoperable Data Governance and Environments" - section "Stockage et sauvegarde pendant le processus de recherche"](<../.gitbook/assets/Capture d’écran 2022-04-20 à 16.21.46.png>)
+
+
+
+Crédits :&#x20;
+
+Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+
+Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.
