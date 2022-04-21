@@ -24,7 +24,7 @@ Toute restriction doit être **mentionnée et expliquée dans le PGD.**
 
 <details>
 
-<summary><strong>Communication obligatoire pour certaines disciplines</strong></summary>
+<summary><strong>Communication obligatoire pour certaines données</strong></summary>
 
 \- données géographiques
 
@@ -63,7 +63,7 @@ Toute restriction doit être **mentionnée et expliquée dans le PGD.**
 Il existe plusieurs manières de limiter l'accès à vos données :
 
 {% tabs %}
-{% tab title="Dispositif" %}
+{% tab title="Dispositif d'accès" %}
 Vous pouvez limiter l'accès à vos données au moyen d'un mot de passe.
 {% endtab %}
 

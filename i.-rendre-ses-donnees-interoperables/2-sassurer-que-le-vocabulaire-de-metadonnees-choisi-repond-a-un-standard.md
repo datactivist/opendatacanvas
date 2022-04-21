@@ -58,7 +58,7 @@ Vous pouvez également consulter ce [**Catalogue de métadonnées**](https://rda
 
 
 
-## Exemple de réponse pour le PGD du [projet "SNO KARST"](https://dmp.opidor.fr/plans/9351/export.pdf) sur le modèle PGD ANR français  section 2 :&#x20;
+Exemple de réponse pour le PGD du [projet "SNO KARST"](https://dmp.opidor.fr/plans/9351/export.pdf) sur le modèle PGD ANR français  section 2 :&#x20;
 
 ![DMP public projet "SNO KARST" - section 2](<../.gitbook/assets/Capture d’écran 2022-04-20 à 17.22.19.png>)
 
