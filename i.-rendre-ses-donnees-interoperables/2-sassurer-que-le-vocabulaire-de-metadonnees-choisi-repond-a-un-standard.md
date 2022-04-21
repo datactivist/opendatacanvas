@@ -1,6 +1,8 @@
 # 2. S'assurer que les métadonnées répondent à un standard de métadonnées
 
+{% hint style="info" %}
 Afin de renseigner ses métadonnées au fur et à mesure du projet il est recommandé d'utiliser un standard de métadonnées propre à votre discipline ou adapté à vos besoins. S'il n'en existe pas il faudra créer un schéma de métadonnées.
+{% endhint %}
 
 Un standard de métadonnées propose un ensemble d’éléments (par exemple titre, auteur, date de production) à utiliser pour décrire une ressource. Il précise les contraintes qui peuvent s’appliquer à ces éléments (par exemple, élément obligatoire ou à valeur unique). Il spécifie également la syntaxe à utiliser pour chaque élément (par exemple pour une date : aaaa-mm-jj).
 
