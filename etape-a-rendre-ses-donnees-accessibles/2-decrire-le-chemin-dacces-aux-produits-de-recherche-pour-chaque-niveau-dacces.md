@@ -44,6 +44,12 @@ Il est recommandé d'éviter au maximum les outils du type One Drive, Google Dri
 **Dans tous les cas, ne pas hésiter à se rapprocher de son établissement afin de connaitre les espaces de stockage sécurisés mis à disposition.**
 {% endhint %}
 
+## COMPARATIF DES DIFFÉRENTS SUPPORTS DE STOCKAGE
+
+Sans aller dans les extrêmes, il vous faut quand même être en mesure d’**anticiper ces risques** et de prendre des mesures adaptées à la grandeur des dommages potentiels. **Chaque support a ses avantages et inconvénients**, notamment en terme de coût, de sécurité, de capacité de stockage, et d’accès.
+
+![Tableau comparatif des différents supports de stockage, DORANuM](../.gitbook/assets/tableau-comparatif-supports.png)
+
 ## **Utiliser un protocole libre et ouvert**
 
 Pour être FAIR, les données doivent pouvoir être récupérables via un protocole de communication standardisé. Il existe plusieurs protocoles qui sont destinés à des types de communications particuliers. Le HTTP et le FTP sont des protocoles standards servant respectivement à distribuer des pages Web et à transférer des fichiers. L'entrepôt sur lequel vos données sont déposées devrait utiliser des protocoles standards tels que le HTTP et le FTP.
