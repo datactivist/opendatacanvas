@@ -24,4 +24,8 @@ Exemple de réponse pour le PGD du [projet "SNO KARST"](https://dmp.opidor.fr/pl
 
 ![DMP public projet "SNO KARST" - section 2](<../.gitbook/assets/Capture d’écran 2022-04-20 à 17.22.34.png>)
 
-Crédits : Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+Crédits :&#x20;
+
+Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+
+Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.

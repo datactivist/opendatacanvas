@@ -58,15 +58,12 @@ Toute restriction doit être **mentionnée et expliquée dans le PGD.**
 
 **Lien utile :** Logigramme de communicabilité des données intégré dans le [guide “Ouverture des données de recherche, analyse du cadre juridique en France”](https://hal.inrae.fr/hal-02791224/document) p.29.
 
-\
-
-
 ## **Accès**
 
 Il existe plusieurs manières de limiter l'accès à vos données :
 
 {% tabs %}
-{% tab title="Dispositif d" %}
+{% tab title="Dispositif" %}
 Vous pouvez limiter l'accès à vos données au moyen d'un mot de passe.
 {% endtab %}
 

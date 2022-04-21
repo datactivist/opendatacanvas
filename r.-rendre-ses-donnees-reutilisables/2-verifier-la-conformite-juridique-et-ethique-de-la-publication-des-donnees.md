@@ -49,7 +49,7 @@ Une partie du PGD concerne les aspects éthiques :
 
 </details>
 
-Exemple de réponse pour le projet[ "Bridge Research through Interoperable Data Governance and Environments"](https://dmp.opidor.fr/plans/10339/export.pdf) sur le modèle PGD ANR français :
+## Exemple de réponse pour le projet[ "Bridge Research through Interoperable Data Governance and Environments"](https://dmp.opidor.fr/plans/10339/export.pdf) sur le modèle PGD ANR français :
 
 ![DMP Public projet "Bridge Research through Interoperable Data Governance and Environments" - section Exigences légales et éthiques, codes de conduite](<../.gitbook/assets/Capture d’écran 2022-04-20 à 13.42.49.png>)
 
@@ -57,4 +57,8 @@ Exemple de réponse pour le projet[ "Bridge Research through Interoperable Data 
 Si vos produits de recherche ne soulèvent pas de contraintes juridiques et éthique, vous devez le notifier dans votre PGD comme dans l'exemple ci-dessus.
 {% endhint %}
 
-Crédits : Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+Crédits :&#x20;
+
+Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+
+Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.

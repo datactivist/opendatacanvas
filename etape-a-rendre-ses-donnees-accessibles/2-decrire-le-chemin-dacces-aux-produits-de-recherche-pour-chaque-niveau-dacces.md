@@ -1,7 +1,7 @@
 # 2. Décrire le chemin d'accès aux produits de recherche pour chaque niveau d'accès
 
 {% hint style="info" %}
-L'accessibilité à vos données doit être mentionné dans la documentation ou les métadonnées. S'il existe des contraintes liées au type de données (sensibles, confidentielles), elles doivent figurer dans le PGD.
+L'accessibilité à vos données doit être mentionnée dans la documentation ou les métadonnées. S'il existe des contraintes liées au type de données (sensibles, confidentielles), elles doivent figurer dans le PGD.
 {% endhint %}
 
 ## Stockage et sauvegarde pendant le processus de recherche
@@ -50,23 +50,7 @@ Sans aller dans les extrêmes, il vous faut quand même être en mesure d’**an
 
 ![Tableau comparatif des différents supports de stockage, DORANuM](../.gitbook/assets/tableau-comparatif-supports.png)
 
-## **Utiliser un protocole libre et ouvert**
-
-Pour être FAIR, les données doivent pouvoir être récupérables via un protocole de communication standardisé. Il existe plusieurs protocoles qui sont destinés à des types de communications particuliers. Le HTTP et le FTP sont des protocoles standards servant respectivement à distribuer des pages Web et à transférer des fichiers. L'entrepôt sur lequel vos données sont déposées devrait utiliser des protocoles standards tels que le HTTP et le FTP.
-
-Les protocoles de communication libres et ouverts sont librement utilisables et interopérables. Ils peuvent fonctionner avec plusieurs logiciels, contrairement aux protocoles propriétaires. Ils facilitent ainsi le libre accès aux données. Leur documentation technique étant accessible publiquement, les nouveaux outils qui verront le jour pourront s'appliquer avec ces protocoles.
-
-{% tabs %}
-{% tab title="Protocole à utiliser" %}
-De nombreux protocoles standards sont libres et ouverts. Ex : HTTP, FTP, SMTP (Simple Mail Transfer Protocol)...
-{% endtab %}
-
-{% tab title="Protocole à éviter" %}
-Les protocoles propriétaires ou dont la documentation n'est pas accessible publiquement. Ex : Protocole Skype, Microsoft, Exchange Server…
-{% endtab %}
-{% endtabs %}
-
-Exemple de réponse pour le projet[ "Bridge Research through Interoperable Data Governance and Environments"](https://dmp.opidor.fr/plans/10339/export.pdf) sur le modèle PGD ANR français section "Stockage et sauvegarde pendant le processus de recherche" :
+## Exemple de réponse pour le projet[ "Bridge Research through Interoperable Data Governance and Environments"](https://dmp.opidor.fr/plans/10339/export.pdf) sur le modèle PGD ANR français section "Stockage et sauvegarde pendant le processus de recherche" :
 
 ![DMP Public projet "Bridge Research through Interoperable Data Governance and Environments" - section "Stockage et sauvegarde pendant le processus de recherche"](<../.gitbook/assets/Capture d’écran 2022-04-20 à 16.21.46.png>)
 
