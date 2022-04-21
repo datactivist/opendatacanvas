@@ -84,7 +84,7 @@ Si le choix de l'entrepôt vous revient, voici une liste de critères pour vous 
 {% hint style="info" %}
 **Astuce** **: On peut faire appel à son service d'appui à la recherche pour bien choisir son entrepôt.**
 
-**Rappel : La page SOS-PGD du site Couperin de la Science ouverte permet de repérer les services de soutien locaux :** [**https://scienceouverte.couperin.org/sos-pgd/**](https://scienceouverte.couperin.org/sos-pgd/)
+**La page SOS-PGD du site Couperin de la Science ouverte permet de repérer les services de soutien locaux :** [**https://scienceouverte.couperin.org/sos-pgd/**](https://scienceouverte.couperin.org/sos-pgd/)
 {% endhint %}
 
 ## Recherche d'un entrepôt dans un annuaire - Re3data et Cat OPIDoR
