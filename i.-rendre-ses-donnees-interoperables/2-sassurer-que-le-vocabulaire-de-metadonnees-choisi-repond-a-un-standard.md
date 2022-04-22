@@ -14,7 +14,7 @@ Un standard de métadonnées propose un ensemble d’éléments (par exemple tit
 
 * **DataCite Metadata Schema**
 
-Standard lié à l’attribution d’identifiants pérennes DOI.&#x20;
+Standard lié à l’attribution d’identifiants pérennes DOI.
 
 {% embed url="https://schema.datacite.org" %}
 
@@ -52,17 +52,15 @@ Consulter le "RDA Metadata Standards Directory" de la Research Data Alliance
 
 Vous pouvez aussi consulter le chapitre dédié aux métadonnées dans le [**Guide de bonnes pratiques : Gestion et valorisation des données de recherche**](https://ordar.otelo.univ-lorraine.fr/record?id=10.24396/ORDAR-1) rédigé par OTELo et l’Inist-CNRS. Il propose un modèle de métadonnées pour apporter une information minimale et suffisante pour comprendre et reproduire ses données.
 
-Vous pouvez également consulter ce [**Catalogue de métadonnées**](https://rdamsc.bath.ac.uk/subject-index) **** développé par Research Data Alliance géré par l'Université de Bath. Cette ressource vous permettra d'y trouver des informations précises sur les normes de métadonnées selon votre discipline spécifique.
+Vous pouvez également consulter ce [**Catalogue de métadonnées**](https://rdamsc.bath.ac.uk/subject-index) \*\*\*\* développé par Research Data Alliance géré par l'Université de Bath. Cette ressource vous permettra d'y trouver des informations précises sur les normes de métadonnées selon votre discipline spécifique.
 
 ***
 
-
-
-Exemple de réponse pour le PGD du [projet "SNO KARST"](https://dmp.opidor.fr/plans/9351/export.pdf) sur le modèle PGD ANR français  section 2 :&#x20;
+## Exemple de réponse pour le PGD du [projet "SNO KARST"](https://dmp.opidor.fr/plans/9351/export.pdf) sur le modèle PGD ANR français section 2 :
 
 ![DMP public projet "SNO KARST" - section 2](<../.gitbook/assets/Capture d’écran 2022-04-20 à 17.22.19.png>)
 
-Crédits :&#x20;
+Crédits :
 
 Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
 
