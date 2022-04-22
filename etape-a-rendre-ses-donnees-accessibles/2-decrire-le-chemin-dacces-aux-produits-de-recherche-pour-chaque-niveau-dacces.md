@@ -50,13 +50,7 @@ Sans aller dans les extrêmes, il vous faut quand même être en mesure d’**an
 
 ![Tableau comparatif des différents supports de stockage, DORANuM](../.gitbook/assets/tableau-comparatif-supports.png)
 
-## Exemple de réponse pour le projet ["Bridge Research through Interoperable Data Governance and Environments"](https://dmp.opidor.fr/plans/5954/export.pdf) sur le modèle PGD ANR français section "Stockage et sauvegarde pendant le processus de recherche" pour deux produits de recherche :
-
-![DMP Public projet "Bridge Research through Interoperable Data Governance and Environments" - section "Stockage et sauvegarde pendant le processus de recherche"](<../.gitbook/assets/Capture d’écran 2022-04-20 à 16.21.46.png>)
-
-
-
-Crédits :&#x20;
+Crédits :
 
 Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
 

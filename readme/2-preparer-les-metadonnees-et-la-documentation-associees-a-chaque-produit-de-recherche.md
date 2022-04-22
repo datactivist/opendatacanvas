@@ -110,10 +110,6 @@ Il est donc fortement recommandé de **documenter soigneusement tout ce qui conc
 ](https://doranum.fr/wp-content/uploads/parcours-GDR/index.html#)
 {% endhint %}
 
-## Exemple de réponse pour le projet[ "Bridge Research through Interoperable Data Governance and Environments"](https://dmp.opidor.fr/plans/10339/export.pdf) sur le modèle PGD ANR français section "Documentation et métadonnées" :
-
-![DMP Public projet "Bridge Research through Interoperable Data Governance and Environments" - section "Documentation et métadonnées"](<../.gitbook/assets/Capture d’écran 2022-04-20 à 13.44.46.png>)
-
 Crédits :
 
 Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)

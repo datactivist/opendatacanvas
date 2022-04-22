@@ -56,10 +56,6 @@ Vous pouvez également consulter ce [**Catalogue de métadonnées**](https://rda
 
 ***
 
-## Exemple de réponse pour le PGD du [projet "SNO KARST"](https://dmp.opidor.fr/plans/9351/export.pdf) sur le modèle PGD ANR français section 2 :
-
-![DMP public projet "SNO KARST" - section 2](<../.gitbook/assets/Capture d’écran 2022-04-20 à 17.22.19.png>)
-
 Crédits :
 
 Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)

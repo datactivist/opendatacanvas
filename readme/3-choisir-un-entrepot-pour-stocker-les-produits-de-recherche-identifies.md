@@ -115,13 +115,7 @@ Cat OPIDoR recense et décrit les **services français** dédiés aux données s
 **Astuce : vous pouvez éventuellement trouver un entrepôt de données à votre convenance en effectuant une recherche sur le sujet que vous traitez via** [**Google Dataset Search**](https://datasetsearch.research.google.com) **ou** [**OpenAIRE Explore**](https://explore.openaire.eu)**. Ces moteurs de recherche sont conçus pour chercher directement des jeux de données.**
 {% endhint %}
 
-## Exemple de réponse pour le projet ["Bridge Research through Interoperable Data Governance and Environments"](https://dmp.opidor.fr/plans/5954/export.pdf) sur le modèle PGD ANR français section 5 a/b :&#x20;
-
-![DMP Public projet "Bridge Research through Interoperable Data Governance and Environments" - section 5 a/b](<../.gitbook/assets/Capture d’écran 2022-04-20 à 17.07.50.png>)
-
-
-
-Crédits :&#x20;
+Crédits :
 
 Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
 
