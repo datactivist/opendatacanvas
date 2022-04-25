@@ -3,7 +3,7 @@
 * [Préconisations pour bien démarrer l'atelier](README.md)
 * [Étape F. Rendre les données faciles à trouver](<README (1).md>)
   * [1. Identifier l'ensemble des produits de recherche d'un projet](readme-1/1-identifier-lensemble-des-produits-de-recherche-dun-projet/README.md)
-    * [Galerie d'exemple des produits de recherche proposés par DMP OPIDoR](readme-1/1-identifier-lensemble-des-produits-de-recherche-dun-projet/galerie-dexemple-des-produits-de-recherche-proposes-par-dmp-opidor.md)
+    * [Détecter tous les produits de recherche d'un projet](readme-1/1-identifier-lensemble-des-produits-de-recherche-dun-projet/detecter-tous-les-produits-de-recherche-dun-projet.md)
     * [S'inspirer d'exemples de PGD public](readme-1/1-identifier-lensemble-des-produits-de-recherche-dun-projet/sinspirer-dexemples-de-pgd-public.md)
   * [2. Préparer les métadonnées et la documentation associées à chaque produit de recherche](readme-1/2-preparer-les-metadonnees-et-la-documentation-associees-a-chaque-produit-de-recherche/README.md)
     * [Métadonnées et documentation](readme-1/2-preparer-les-metadonnees-et-la-documentation-associees-a-chaque-produit-de-recherche/metadonnees-et-documentation.md)
