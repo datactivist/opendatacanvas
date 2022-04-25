@@ -48,7 +48,7 @@ Il est recommandé d'éviter au maximum les outils du type One Drive, Google Dri
 
 Sans aller dans les extrêmes, il vous faut quand même être en mesure d’**anticiper ces risques** et de prendre des mesures adaptées à la grandeur des dommages potentiels. **Chaque support a ses avantages et inconvénients**, notamment en terme de coût, de sécurité, de capacité de stockage, et d’accès.
 
-![Tableau comparatif des différents supports de stockage, DORANuM](../.gitbook/assets/tableau-comparatif-supports.png)
+![Tableau comparatif des différents supports de stockage, DORANuM](../../.gitbook/assets/tableau-comparatif-supports.png)
 
 Crédits :
 
