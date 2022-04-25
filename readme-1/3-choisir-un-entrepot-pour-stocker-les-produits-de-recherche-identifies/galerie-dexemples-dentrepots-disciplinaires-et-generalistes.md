@@ -1,4 +1,6 @@
-# Galerie d'exemples d'entrepôts disciplinaires et généralistes
+# Faire le choix d'un type d'entrepot
+
+## Galerie d'exemples d'entrepôts disciplinaires et généralistes
 
 Il est conseillé de privilégier le dépôt de vos données dans un **entrepôt disciplinaire**. S'il n'en existe pas dans votre domaine, vous pouvez opter pour un **entrepôt généraliste**.
 

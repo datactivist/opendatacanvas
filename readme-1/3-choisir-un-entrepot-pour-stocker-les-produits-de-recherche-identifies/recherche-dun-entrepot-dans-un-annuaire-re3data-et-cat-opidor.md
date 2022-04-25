@@ -1,4 +1,6 @@
-# Recherche d'un entrepôt dans un annuaire - Re3data et Cat OPIDoR
+# Choisir un entrepôt dans l'annuaire
+
+## Recherche d'un entrepôt dans un annuaire - Re3data et Cat OPIDoR
 
 **Re3data**
 
@@ -25,4 +27,3 @@ Cat OPIDoR recense et décrit les **services français** dédiés aux données s
 {% hint style="info" %}
 **Astuce : vous pouvez éventuellement trouver un entrepôt de données à votre convenance en effectuant une recherche sur le sujet que vous traitez via** [**Google Dataset Search**](https://datasetsearch.research.google.com) **ou** [**OpenAIRE Explore**](https://explore.openaire.eu)**. Ces moteurs de recherche sont conçus pour chercher directement des jeux de données.**
 {% endhint %}
-
