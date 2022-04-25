@@ -17,7 +17,7 @@ Il existe de nombreuses licences, modulables en fonction de vos besoins pour cer
 
 En France, la réglementation stipule que la licence ouverte (Etalab) doit être attribuée aux données publiques. Cette licence ouverte, libre et gratuite est compatible avec la CC-BY 2.0, ce qui veut dire que la paternité des données devra être mentionnée en cas de réutilisation des données.
 
-<img src="../.gitbook/assets/logo_licenceetalab.gif" alt="" data-size="original">
+<img src="../../.gitbook/assets/logo_licenceetalab.gif" alt="" data-size="original">
 
 </details>
 
@@ -57,7 +57,7 @@ Voici les 6 licences Creative Commons et leurs icônes correspondantes (illustra
 
 \- CC BY-SA
 
-La plus permissive est la CC BY et la plus restrictive est la CC BY-NC-ND.![](../.gitbook/assets/Licence\_CC.png)
+La plus permissive est la CC BY et la plus restrictive est la CC BY-NC-ND.![](../../.gitbook/assets/Licence\_CC.png)
 
 </details>
 
@@ -80,24 +80,6 @@ Il existe des licences spécifiques aux bases de données comme la licence libre
 {% hint style="info" %}
 Notez que dans le cas de données publiques ayant une visibilité internationale, il est tout à fait **possible d'attribuer à la fois une Licence ouverte Etalab et une licence CC-By**.
 {% endhint %}
-
-## **Outils et liens utiles pour la sélection des licences**
-
-{% embed url="https://www.data.gouv.fr/fr/pages/legal/licences" %}
-Ce site recense les licences de réutilisation autorisées dans le cadre de la loi pour une République numérique pour les "informations publiques (données, documents...)" et codes sources, ainsi que les licences spéciales homologuées.
-{% endembed %}
-
-{% embed url="http://ufal.github.io/public-license-selector" %}
-Cet outil permet de choisir une licence en répondant à des questions.
-{% endembed %}
-
-{% embed url="https://choosealicense.com" %}
-Ce site permet de choisir une licence en fonction de ses besoins.
-{% endembed %}
-
-{% embed url="http://licentia.inria.fr" %}
-Cet outil permet de choisir quelle licence attribuer à ses données en utilisant quelques critères (permissions / obligations / interdictions), de déterminer si une licence est compatible avec ses besoins, de visualiser et télécharger une licence, de la convertir en RDF.
-{% endembed %}
 
 ## Vérifier la compatibilité entre les différentes licences utilisées
 
