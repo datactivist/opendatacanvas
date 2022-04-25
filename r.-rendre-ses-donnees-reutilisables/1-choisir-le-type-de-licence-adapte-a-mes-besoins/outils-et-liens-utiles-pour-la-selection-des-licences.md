@@ -1,4 +1,4 @@
-# Outils et liens utiles pour la sélection des licences
+# Déterminer la licence //
 
 {% embed url="https://www.data.gouv.fr/fr/pages/legal/licences" %}
 Ce site recense les licences de réutilisation autorisées dans le cadre de la loi pour une République numérique pour les "informations publiques (données, documents...)" et codes sources, ainsi que les licences spéciales homologuées.
