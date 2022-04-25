@@ -18,6 +18,7 @@
 * [Étape A : Rendre ses données accessibles](etape-a-rendre-ses-donnees-accessibles/README.md)
   * [1. Choisir les niveaux d'accès adaptés à chaque produit de recherche](etape-a-rendre-ses-donnees-accessibles/1-choisir-les-niveaux-dacces-adaptes-a-chaque-produit-de-recherche.md)
   * [2. Décrire le chemin d'accès aux produits de recherche pour chaque niveau d'accès](etape-a-rendre-ses-donnees-accessibles/2-decrire-le-chemin-dacces-aux-produits-de-recherche-pour-chaque-niveau-dacces/README.md)
+    * [Décrire le processus de stockage et sécurisation mis en place durant le projet](etape-a-rendre-ses-donnees-accessibles/2-decrire-le-chemin-dacces-aux-produits-de-recherche-pour-chaque-niveau-dacces/decrire-le-processus-de-stockage-et-securisation-mis-en-place-durant-le-projet.md)
     * [Définir un mode d'archivage pérenne pour mes données](etape-a-rendre-ses-donnees-accessibles/2-decrire-le-chemin-dacces-aux-produits-de-recherche-pour-chaque-niveau-dacces/definir-un-mode-darchivage-perenne-pour-mes-donnees.md)
     * [S'inspirer d'exemples de PGD publics](etape-a-rendre-ses-donnees-accessibles/2-decrire-le-chemin-dacces-aux-produits-de-recherche-pour-chaque-niveau-dacces/sinspirer-dexemples-de-pgd-publics.md)
   * [3. Budgétiser le coût global de gestion des produits de recherche](etape-a-rendre-ses-donnees-accessibles/3-budgetiser-le-cout-global-de-gestion-des-produits-de-recherche/README.md)
