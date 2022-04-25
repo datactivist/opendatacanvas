@@ -1,4 +1,4 @@
-# 3. Vérifier que le vocabulaire utilisé respecte les principes FAIR
+# 3. Évaluer la conformité du vocabulaire utilisé avec les principes FAIR
 
 Il est fortement recommandé d'utiliser des **vocabulaires contrôlés disciplinaires** utilisés couramment par la communauté scientifique du domaine : par exemple des codex de médicaments, des classifications taxonomiques, la nomenclature internationale des formules chimiques....
 
