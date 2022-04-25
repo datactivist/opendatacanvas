@@ -12,7 +12,7 @@
     * [S'inspirer d'exemples de PGD public](readme-1/2-preparer-les-metadonnees-et-la-documentation-associees-a-chaque-produit-de-recherche/sinspirer-dexemples-de-pgd-public.md)
   * [3. Choisir un entrepôt pour stocker les produits de recherche identifiés](readme-1/3-choisir-un-entrepot-pour-stocker-les-produits-de-recherche-identifies/README.md)
     * [Suivre les recommandations de votre institution](readme-1/3-choisir-un-entrepot-pour-stocker-les-produits-de-recherche-identifies/suivre-les-recommandations-de-votre-institution.md)
-    * [Faire le choix d'un type d'entrepot](readme-1/3-choisir-un-entrepot-pour-stocker-les-produits-de-recherche-identifies/galerie-dexemples-dentrepots-disciplinaires-et-generalistes.md)
+    * [Faire le choix d'un type d'entrepôt](readme-1/3-choisir-un-entrepot-pour-stocker-les-produits-de-recherche-identifies/galerie-dexemples-dentrepots-disciplinaires-et-generalistes.md)
     * [Choisir un entrepôt dans l'annuaire](readme-1/3-choisir-un-entrepot-pour-stocker-les-produits-de-recherche-identifies/recherche-dun-entrepot-dans-un-annuaire-re3data-et-cat-opidor.md)
     * [S'inspirer d'exemples de PGD public](readme-1/sinspirer-dexemples-de-pgd-public.md)
 * [Étape A : Rendre ses données accessibles](etape-a-rendre-ses-donnees-accessibles/README.md)

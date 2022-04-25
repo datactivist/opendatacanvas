@@ -4,3 +4,4 @@
 
 ![DMP Public projet "Bridge Research through Interoperable Data Governance and Environments" - section 5 a/b](<../.gitbook/assets/Capture d’écran 2022-04-20 à 17.07.50.png>)
 
+**Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.**

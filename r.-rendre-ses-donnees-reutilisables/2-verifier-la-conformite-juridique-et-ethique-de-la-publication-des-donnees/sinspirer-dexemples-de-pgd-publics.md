@@ -4,4 +4,4 @@
 
 ![DMP Public projet "Bridge Research through Interoperable Data Governance and Environments" - section Exigences légales et éthiques, codes de conduite](<../../.gitbook/assets/Capture d’écran 2022-04-20 à 13.42.49.png>)
 
-Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.
+**Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.**

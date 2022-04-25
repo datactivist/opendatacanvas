@@ -1,7 +1,5 @@
 # 3. Choisir un entrepôt pour stocker les produits de recherche identifiés
 
-
-
 {% hint style="info" %}
 Pour rendre ses données faciles à trouver, il est important de choisir un entrepôt où déposer vos données afin de les ouvrir dans la mesure du possible. Le choix de l'entrepôt repose sur vos besoins et/ou contraintes, vous trouverez dans cette page des éléments permettant de guider vos choix afin de sélectionner l'entrepôt le plus adapté.
 {% endhint %}
@@ -31,5 +29,3 @@ Il est recommandé de déposer vos données de préférence dans un **entrepôt 
 Crédits :
 
 Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
-
-Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.

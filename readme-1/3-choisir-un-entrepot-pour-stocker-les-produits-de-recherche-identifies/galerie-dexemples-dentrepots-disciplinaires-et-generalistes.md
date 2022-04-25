@@ -1,4 +1,21 @@
-# Faire le choix d'un type d'entrepot
+# Faire le choix d'un type d'entrepôt
+
+{% hint style="info" %}
+Si votre institution ne recommande par d'entrepôt prédéfini, vous pouvez consulter les critères de sélection d'un entrepôt de données ainsi que notre galerie d'exemples.&#x20;
+{% endhint %}
+
+## Critères pour choisir un entrepôt :
+
+Si le choix de l'entrepôt vous revient, voici une liste de critères pour vous aider :
+
+* privilégier un entrepôt disciplinaire
+* choisir un entrepôt en fonction des types de données acceptés
+* vérifier la qualité des métadonnées requise
+* vérifier si l'entrepôt envisagé est certifié
+* vérifier si l'entrepôt envisagé est labellisé "entrepôt de confiance"
+* vérifier la pérennité proposée par l'entrepôt
+* voir si le dépôt de données dans l'entrepôt envisagé génère un identifiant pérenne
+* vérifier si l'entrepôt envisagé permet la gestion des versions si tel est votre besoin.
 
 ## Galerie d'exemples d'entrepôts disciplinaires et généralistes
 
@@ -40,21 +57,12 @@ Source : _Partager les données liées aux publications scientifiques – Guide 
 
 </details>
 
-#### Critères pour choisir un entrepôt :
-
-Si le choix de l'entrepôt vous revient, voici une liste de critères pour vous aider :
-
-* privilégier un entrepôt disciplinaire
-* choisir un entrepôt en fonction des types de données acceptés
-* vérifier la qualité des métadonnées requise
-* vérifier si l'entrepôt envisagé est certifié
-* vérifier si l'entrepôt envisagé est labellisé "entrepôt de confiance"
-* vérifier la pérennité proposée par l'entrepôt
-* voir si le dépôt de données dans l'entrepôt envisagé génère un identifiant pérenne
-* vérifier si l'entrepôt envisagé permet la gestion des versions si tel est votre besoin.
-
 {% hint style="info" %}
 **Astuce** **: On peut faire appel à son service d'appui à la recherche pour bien choisir son entrepôt.**
 
 **La page SOS-PGD du site Couperin de la Science ouverte permet de repérer les services de soutien locaux :** [**https://scienceouverte.couperin.org/sos-pgd/**](https://scienceouverte.couperin.org/sos-pgd/)
 {% endhint %}
+
+Crédits :
+
+Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)

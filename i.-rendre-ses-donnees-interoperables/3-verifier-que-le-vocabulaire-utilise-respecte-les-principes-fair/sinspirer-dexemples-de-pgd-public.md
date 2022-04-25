@@ -4,3 +4,4 @@
 
 ![DMP public projet "SNO KARST" - section 2](<../../.gitbook/assets/Capture d’écran 2022-04-20 à 17.22.34.png>)
 
+**Merci aux contributeurs des PGD publics sur DMP OPIDoR d'avoir partagé leur PGD librement.**

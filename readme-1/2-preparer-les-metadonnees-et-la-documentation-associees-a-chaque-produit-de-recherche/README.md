@@ -22,6 +22,11 @@ Les métadonnées sont donc utiles pour :
 * Connaitre les conditions de réutilisation et de partage des données
 * Accéder à des informations très utiles lorsqu’on ne peut pas partager ses données (embargo, accès restreint) ou lors du retrait des données (données obsolètes, etc.).
 
-## ****[ ](https://doranum.fr/wp-content/uploads/parcours-GDR/index.html#)
+Crédits :
+
+Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+
+[\
+](https://doranum.fr/wp-content/uploads/parcours-GDR/index.html#)
 
 ****
