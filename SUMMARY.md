@@ -11,7 +11,7 @@
   * [3. Choisir un entrepôt pour stocker les produits de recherche identifiés](readme-1/3-choisir-un-entrepot-pour-stocker-les-produits-de-recherche-identifies/README.md)
     * [Galerie d'exemples d'entrepôts disciplinaires et généralistes](readme-1/3-choisir-un-entrepot-pour-stocker-les-produits-de-recherche-identifies/galerie-dexemples-dentrepots-disciplinaires-et-generalistes.md)
     * [Recherche d'un entrepôt dans un annuaire - Re3data et Cat OPIDoR](readme-1/3-choisir-un-entrepot-pour-stocker-les-produits-de-recherche-identifies/recherche-dun-entrepot-dans-un-annuaire-re3data-et-cat-opidor.md)
-    * [S'inspirer d'exemples de PGD public](readme-1/3-choisir-un-entrepot-pour-stocker-les-produits-de-recherche-identifies/sinspirer-dexemples-de-pgd-public.md)
+    * [S'inspirer d'exemples de PGD public](readme-1/sinspirer-dexemples-de-pgd-public.md)
 * [Étape A : Rendre ses données accessibles](etape-a-rendre-ses-donnees-accessibles/README.md)
   * [1. Choisir les niveaux d'accès adaptés à chaque produit de recherche](etape-a-rendre-ses-donnees-accessibles/1-choisir-les-niveaux-dacces-adaptes-a-chaque-produit-de-recherche.md)
   * [2. Décrire le chemin d'accès aux produits de recherche pour chaque niveau d'accès](etape-a-rendre-ses-donnees-accessibles/2-decrire-le-chemin-dacces-aux-produits-de-recherche-pour-chaque-niveau-dacces.md)
