@@ -26,5 +26,7 @@
 * [Étape R. Rendre ses données réutilisables](r.-rendre-ses-donnees-reutilisables/README.md)
   * [1. Choisir le type de licence adapté à mes besoins](r.-rendre-ses-donnees-reutilisables/1-choisir-le-type-de-licence-adapte-a-mes-besoins/README.md)
     * [Outils et liens utiles pour la sélection des licences](r.-rendre-ses-donnees-reutilisables/1-choisir-le-type-de-licence-adapte-a-mes-besoins/outils-et-liens-utiles-pour-la-selection-des-licences.md)
+    * [Vérifier la compatibilité entre les différentes licences utilisées](r.-rendre-ses-donnees-reutilisables/1-choisir-le-type-de-licence-adapte-a-mes-besoins/verifier-la-compatibilite-entre-les-differentes-licences-utilisees.md)
+    * [S'inspirer d'exemple de PGD public](r.-rendre-ses-donnees-reutilisables/1-choisir-le-type-de-licence-adapte-a-mes-besoins/sinspirer-dexemple-de-pgd-public.md)
   * [2.Vérifier la conformité juridique et éthique de la publication des données](r.-rendre-ses-donnees-reutilisables/2-verifier-la-conformite-juridique-et-ethique-de-la-publication-des-donnees.md)
   * [S'inspirer d'exemple de PGD public](r.-rendre-ses-donnees-reutilisables/sinspirer-dexemple-de-pgd-public.md)
