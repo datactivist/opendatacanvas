@@ -34,6 +34,6 @@
     * [Déterminer la licence du produit de recherche](r.-rendre-ses-donnees-reutilisables/1-choisir-le-type-de-licence-adapte-a-mes-besoins/determiner-la-licence-du-produit-de-recherche.md)
     * [Vérifier la compatibilité entre les licences choisies](r.-rendre-ses-donnees-reutilisables/1-choisir-le-type-de-licence-adapte-a-mes-besoins/verifier-la-compatibilite-entre-les-licences-choisies.md)
     * [S'inspirer d'exemples de PGD publics](r.-rendre-ses-donnees-reutilisables/1-choisir-le-type-de-licence-adapte-a-mes-besoins/sinspirer-dexemple-de-pgd-public.md)
-  * [2.Vérifier la conformité juridique et éthique de la publication des données](r.-rendre-ses-donnees-reutilisables/2-verifier-la-conformite-juridique-et-ethique-de-la-publication-des-donnees.md)
+  * [2. Prendre connaissance des aspects juridiques et éthiques que peuvent générer votre projet ](r.-rendre-ses-donnees-reutilisables/2-verifier-la-conformite-juridique-et-ethique-de-la-publication-des-donnees.md)
     * [Inscrire les contraintes juridiques et éthiques dans le PGD](r.-rendre-ses-donnees-reutilisables/2-verifier-la-conformite-juridique-et-ethique-de-la-publication-des-donnees/inscrire-les-contraintes-juridiques-et-ethiques-dans-le-pgd.md)
     * [S'inspirer d'exemples de PGD publics](r.-rendre-ses-donnees-reutilisables/2-verifier-la-conformite-juridique-et-ethique-de-la-publication-des-donnees/sinspirer-dexemples-de-pgd-publics.md)
