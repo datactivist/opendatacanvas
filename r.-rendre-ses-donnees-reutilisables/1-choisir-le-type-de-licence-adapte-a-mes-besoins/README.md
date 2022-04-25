@@ -1,13 +1,10 @@
-# 1. Choisir le type de licence adapté à mes besoins
+# 1. Découvrir les différentes licences existantes
 
 {% hint style="info" %}
 Pour rendre vos données réutilisables, il est important d'attribuer une licence et de la mentionner dans les métadonnées qui y définira le contexte. Vous trouverez quelques recommandations et exemples pour guider votre réflexion.
 {% endhint %}
 
-Il est recommandé de renseigner la licence dans les métadonnées au fur et à mesure de l’avancée du projet, avec une attention particulière :
 
-* au moment du partage des données,
-* puis à l'étape de l'archivage pérenne (des métadonnées spécifiques seront à renseigner).
 
 Il existe de nombreuses licences, modulables en fonction de vos besoins pour certaines, très spécifiques pour d'autres. Voici quelques exemples (liste non exhaustive) :
 

@@ -1,4 +1,9 @@
-# Déterminer la licence //
+# Déterminer la licence du produit de recherche
+
+Il est recommandé de renseigner la licence dans les métadonnées au fur et à mesure de l’avancée du projet, avec une attention particulière :
+
+* au moment du partage des données,
+* puis à l'étape de l'archivage pérenne (des métadonnées spécifiques seront à renseigner).
 
 {% embed url="https://www.data.gouv.fr/fr/pages/legal/licences" %}
 Ce site recense les licences de réutilisation autorisées dans le cadre de la loi pour une République numérique pour les "informations publiques (données, documents...)" et codes sources, ainsi que les licences spéciales homologuées.
