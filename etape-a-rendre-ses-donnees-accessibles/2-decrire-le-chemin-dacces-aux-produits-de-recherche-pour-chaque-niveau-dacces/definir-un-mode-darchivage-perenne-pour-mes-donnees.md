@@ -23,13 +23,13 @@ Concrètement, l'archivage numérique pérenne consiste à conserver le document
 {% hint style="info" %}
 ### Le CINES
 
-Le CINES (Centre Informatique National de l'Enseignement Supérieur) est l’opérateur mandaté par le Ministère pour opérer la mission d’archivage pérenne pour l’Enseignement Supérieur et la Recherche.&#x20;
+Le [CINES (Centre Informatique National de l'Enseignement Supérieur)](https://www.cines.fr) est l’opérateur mandaté par le Ministère pour opérer la mission d’archivage pérenne pour l’Enseignement Supérieur et la Recherche.&#x20;
 
 Il développe différentes solutions, en particulier PAC, la Plateforme d’Archivage au CINES.&#x20;
 
 Selon son institution, sa discipline ou l’entrepôt choisi, il existe déjà des partenariats avec le CINES, proposant un accompagnement pour l’archivage.
 
-Exemple : Huma-Num en SHS
+Exemple : [Huma-Num](https://www.huma-num.fr) en SHS
 {% endhint %}
 
 ### Sélection des données à archiver
