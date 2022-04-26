@@ -14,7 +14,9 @@ Les champs de métadonnées sont à renseigner avec ce vocabulaire contrôlé, n
 
 Le recours à des mots-clés, à du vocabulaire connu, reconnu et utilisé par une communauté scientifique **augmente** ainsi **la capacité des données à être combinées avec d’autres données dans le cadre d'une réutilisation.**
 
-## Pour aller plus loin :
+## Pour aller plus loin :&#x20;
+
+Ce catalogue de standards de métadonnées, _The RDA Metadata Standards Catalog_, vous permet de trouver de standards et schémas en lien avec votre communauté scientifique.&#x20;
 
 {% embed url="https://rdamsc.bath.ac.uk/scope" %}
 Researdch Data Alliance - [Catalogue de normes de métadonnées](https://rdamsc.bath.ac.uk/scope)
