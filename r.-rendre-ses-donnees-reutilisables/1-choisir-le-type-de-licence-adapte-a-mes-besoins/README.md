@@ -73,6 +73,8 @@ La plus permissive est la CC BY et la plus restrictive est la CC BY-NC-ND.![](..
 
 Certaines licences sont dédiées aux logiciels comme la licence de logiciel libre [GNU GPL](https://fr.wikipedia.org/wiki/Licence\_publique\_g%C3%A9n%C3%A9rale\_GNU) (GNU General Public License ou licence publique générale GNU) ou la licence de logiciel libre [CeCILL-B](https://fr.wikipedia.org/wiki/Licence\_CeCILL). Cette dernière a été créée conjointement par le CEA, le CNRS et l'INRIA ([en savoir plus](https://cecill.info)).
 
+_“En synthétisant et après avoir écarté les paquets de documentation et de données placés sous les licences libres spécifiques (GFDL, CC-By, CC-By-SA), on constate qu’environ 60% des logiciels libres sont diffusés sous l’une des versions de la licence GNU GPL et 20% sous l’une des versions de la licence GNU LGPL.”_  [_Livret Bleu Juridique_](https://cnll.fr/media/LivretBleu\_Juridique-2eEdition\_GT-LogicielLibre\_Systematic\_Nov2016\_web.pdf)
+
 </details>
 
 <details>
