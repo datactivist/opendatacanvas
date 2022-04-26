@@ -33,7 +33,7 @@
     * [Modifier le format choisi dans le cas où une option plus ouverte est disponible](i.-rendre-ses-donnees-interoperables/1-verifier-que-le-format-de-donnees-choisi-est-ouvert-et-partage/modifier-le-format-choisi-dans-le-cas-ou-une-option-plus-ouverte-est-disponible.md)
     * [S'inspirer d'exemples de PGD public](i.-rendre-ses-donnees-interoperables/1-verifier-que-le-format-de-donnees-choisi-est-ouvert-et-partage/sinspirer-dexemples-de-pgd-public.md)
   * [2. S'assurer les métadonnées répondent à un standard](i.-rendre-ses-donnees-interoperables/2-sassurer-que-le-vocabulaire-de-metadonnees-choisi-repond-a-un-standard/README.md)
-    * [Se familiariser avec les notions de standard et schéma de métadonnées](i.-rendre-ses-donnees-interoperables/2-sassurer-que-le-vocabulaire-de-metadonnees-choisi-repond-a-un-standard/se-familiariser-avec-les-notions-de-standard-et-schema-de-metadonnees.md)
+    * [Se familiariser avec les notions de standard et schéma de métadonnées](i.-rendre-ses-donnees-interoperables/2-sassurer-que-le-vocabulaire-de-metadonnees-choisi-repond-a-un-standard/se-familiariser-avec-la-notion-de-standard-de-metadonnees.md)
     * [Choisir un standard de métadonnées dans le catalogue fourni](i.-rendre-ses-donnees-interoperables/2-sassurer-que-le-vocabulaire-de-metadonnees-choisi-repond-a-un-standard/catalogues-de-standards-de-metadonnees.md)
     * [S'inspirer d'exemples de PGD public](i.-rendre-ses-donnees-interoperables/2-sassurer-que-le-vocabulaire-de-metadonnees-choisi-repond-a-un-standard/sinspirer-dexemples-de-pgd-public.md)
   * [3. Évaluer la conformité du vocabulaire utilisé avec les principes FAIR](i.-rendre-ses-donnees-interoperables/3-verifier-que-le-vocabulaire-utilise-respecte-les-principes-fair.md)

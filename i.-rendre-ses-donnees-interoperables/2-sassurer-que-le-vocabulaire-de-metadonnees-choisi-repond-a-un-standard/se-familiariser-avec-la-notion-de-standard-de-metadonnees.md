@@ -1,4 +1,4 @@
-# Se familiariser avec la notion de standard de métadonnées
+# Se familiariser avec les notions de standard et schéma de métadonnées
 
 Un standard de métadonnées propose un ensemble d’éléments (par exemple titre, auteur, date de production) à utiliser pour décrire une ressource. Il précise les contraintes qui peuvent s’appliquer à ces éléments (par exemple, élément obligatoire ou à valeur unique). Il spécifie également la syntaxe à utiliser pour chaque élément (par exemple pour une date : aaaa-mm-jj).
 
