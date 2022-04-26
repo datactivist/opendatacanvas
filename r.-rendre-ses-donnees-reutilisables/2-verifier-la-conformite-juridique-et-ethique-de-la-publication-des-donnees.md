@@ -1,4 +1,4 @@
-# 2.Vérifier la conformité juridique et éthique de la publication des données
+# 2. Prendre connaissance des aspects juridiques et éthiques que peuvent générer votre projet&#x20;
 
 {% hint style="info" %}
 En lien avec les licences qui permettent de contextualiser la réutilisation de vos données. Des questions juridiques et éthiques peuvent se poser selon le type de données et il est important de les mentionner dans votre PGD.
@@ -50,8 +50,6 @@ Une partie du PGD concerne les aspects éthiques :
 [https://www.ouvrirlascience.fr/wp-content/uploads/2018/11/Guide\_Juridique\_V2.pdf](https://www.ouvrirlascience.fr/wp-content/uploads/2018/11/Guide\_Juridique\_V2.pdf)
 
 </details>
-
-Si vos produits de recherche ne soulèvent pas de contraintes juridiques et éthique, vous devez le notifier dans votre PGD comme dans l'exemple ci-dessus.
 
 Crédits :
 
