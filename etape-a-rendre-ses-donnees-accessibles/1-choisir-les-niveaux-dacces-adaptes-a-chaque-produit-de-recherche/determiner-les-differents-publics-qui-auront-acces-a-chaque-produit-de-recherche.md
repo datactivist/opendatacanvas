@@ -5,7 +5,7 @@
 Il existe plusieurs manières de limiter l'accès à vos données :
 
 {% tabs %}
-{% tab title="Dispositif d'accès" %}
+{% tab title="Dispositif d" %}
 Vous pouvez limiter l'accès à vos données au moyen d'un mot de passe.
 {% endtab %}
 
@@ -85,10 +85,6 @@ Exemples :
 * Dans le cas d’une interview ou de prises de son/de vue, le chercheur doit recueillir le consentement écrit des personnes concernées.
 * Dans le cas d'une consultation de données d’archives, quels sont les droits afférents ?
 * Dans le cas d'une collecte d’objets archéologiques, quels sont les droits liés au pays de collecte ?
-
-{% hint style="info" %}
-Pour plus d'informations, n'hésitez pas à consulter le [Guide RGPD InSHS](https://www.inshs.cnrs.fr/sites/institut\_inshs/files/pdf/guide-rgpd\_2.pdf).
-{% endhint %}
 
 ## **Garder des informations sur les données si elles sont inaccessibles**
 
