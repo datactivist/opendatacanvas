@@ -12,14 +12,14 @@ Si on s'imagine un jeu de données sous la forme d'une boite de conserve, alors 
 
 ![Sans métadonnées(Image par Araceli Jáuregui de Pixabay)](https://doranum.fr/wp-content/uploads/parcours-GDR/assets/ZIqvStOb8EWOwj87\_gTYQr2sBdpiH7LRb.jpg)
 
-![Avec métadonnées (Image par heberhard de Pixabay )](https://doranum.fr/wp-content/uploads/parcours-GDR/assets/kyICAtdXKRQLePZa\_cqHq\_g8s4zZxStDK.jpg)
+![Avec métadonnées (Image par heberhard de Pixabay)](https://doranum.fr/wp-content/uploads/parcours-GDR/assets/kyICAtdXKRQLePZa\_cqHq\_g8s4zZxStDK.jpg)
 
 Les métadonnées sont donc utiles pour :
 
-* Comprendre l’origine des données et leur contexte de création ou de collecte
-* Améliorer le moissonnage (récupération automatique) par les machines (moteur de recherche)
-* Garantir l’interopérabilité
-* Connaitre les conditions de réutilisation et de partage des données
+* Comprendre l’origine des données et leur contexte de création ou de collecte ;
+* Améliorer le moissonnage (récupération automatique) par les machines (moteur de recherche) ;
+* Garantir l’interopérabilité ;
+* Connaitre les conditions de réutilisation et de partage des données ;
 * Accéder à des informations très utiles lorsqu’on ne peut pas partager ses données (embargo, accès restreint) ou lors du retrait des données (données obsolètes, etc.).
 
 Crédits :

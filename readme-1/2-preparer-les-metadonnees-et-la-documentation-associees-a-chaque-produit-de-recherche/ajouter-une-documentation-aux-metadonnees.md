@@ -35,7 +35,7 @@ Indiquer :
 </details>
 
 {% hint style="info" %}
-Attention aux données sensibles, personnelles ou confidentielles : prendre les précautions nécessaires afin de respecter les règles juridiques et éthiques en vigueur.
+Attention aux données sensibles, personnelles ou confidentielles : prendre les précautions nécessaires afin de respecter les règles juridiques et éthiques en vigueur ([voir étape R](../../r.-rendre-ses-donnees-reutilisables/2-verifier-la-conformite-juridique-et-ethique-de-la-publication-des-donnees.md))
 {% endhint %}
 
 Crédits :
