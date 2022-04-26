@@ -1,5 +1,7 @@
 # Choisir un standard de métadonnées dans le catalogue fourni
 
+Il existe aussi plusieurs répertoires et sites, parmi lesquels : &#x20;
+
 {% embed url="https://www.dcc.ac.uk/guidance/standards/metadata" %}
 Consulter la section "Disciplinary Metadata" du site du Digital Curation Centre
 {% endembed %}
