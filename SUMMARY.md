@@ -47,3 +47,4 @@
   * [2. Prendre connaissance des aspects juridiques et éthiques que peuvent générer votre projet ](r.-rendre-ses-donnees-reutilisables/2-verifier-la-conformite-juridique-et-ethique-de-la-publication-des-donnees.md)
     * [Inscrire les contraintes juridiques et éthiques dans le PGD](r.-rendre-ses-donnees-reutilisables/2-verifier-la-conformite-juridique-et-ethique-de-la-publication-des-donnees/inscrire-les-contraintes-juridiques-et-ethiques-dans-le-pgd.md)
     * [S'inspirer d'exemples de PGD publics](r.-rendre-ses-donnees-reutilisables/2-verifier-la-conformite-juridique-et-ethique-de-la-publication-des-donnees/sinspirer-dexemples-de-pgd-publics.md)
+* [Questionnaire d'évaluation de l'atelier Sprint PGD](questionnaire-devaluation-de-latelier-sprint-pgd.md)
