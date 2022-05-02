@@ -4,13 +4,7 @@
 Pour rendre vos données réutilisables, il est important d'attribuer une licence et de la mentionner dans les métadonnées qui y définira le contexte. Vous trouverez quelques recommandations et exemples pour guider votre réflexion.
 {% endhint %}
 
-### **Quel cadre juridique  pour les données issues de la recherche ?**
 
-Les données produites par les EPST dans le cadre de leur mission de service public (données brutes, données élaborées et métadonnées produites par les salariés de l’établissement ou dans le cadre d’un contrat indiquant que ces données lui appartiennent) sont concernées par la loi dite “CADA”\[\*] : elles doivent donc être rendues publiques (sauf exceptions légales) et librement réutilisables dès lors qu'elles sont considérées comme achevées (_ie_ notamment après une première publication volontaire telle qu'une publication scientifique). Les conditions de leur réutilisation sont fixées par l’utilisation d’une licence à choisir dans le [décret n° 2017-638 du 27 avril 2017 relatif aux licences de réutilisation à titre gratuit des informations publiques et aux modalités de leur homologationn° 2017-638](https://www.legifrance.gouv.fr/eli/decret/2017/4/27/2017-638/jo/texte) .
-
-(\*) CADA. Commission d’accès aux documents administratifs. (s. d.). Consulté 03 novembre 2015, à l’adresse [http://www.cada.fr/index.html](http://www.cada.fr/index.html)
-
-Source : _Datapartage—Choisir une licence_. from [https://datapartage.inrae.fr/Partager-Publier/Choisir-une-licence](https://datapartage.inrae.fr/Partager-Publier/Choisir-une-licence)
 
 Il existe de nombreuses licences, modulables en fonction de vos besoins pour certaines, très spécifiques pour d'autres. Voici quelques exemples (liste non exhaustive) :
 
