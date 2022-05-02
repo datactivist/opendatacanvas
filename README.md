@@ -18,15 +18,13 @@ Voici une check-list pour vous familiariser avec l'outil et commencer à rédige
 Pensez à bien renseigner les affiliations (i.e. établissements auxquels ils sont rattachés) des contributeurs ainsi que leurs identifiants (ORCID).
 {% endhint %}
 
-Une fois le plan créé et les informations générales remplies, vous pouvez dès à présent commencer à **lister vos produits de recherche** et décrire leur contexte de réutilisation et/ou de collecte au sein de votre projet.
-
 L'accès à de nombreux [DMP publics ](https://dmp.opidor.fr/public\_plans)vous permettra également de vous en inspirer. Par exemple ce PGD pour le projet "PGD HyperOtlet" :
 
 ![Partie informations générales du PGD public projet HyperOtlet](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.52.04.png>) ![Partie informations générales du PGD public projet HyperOtlet](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.50.43.png>)
 
 ## Lien utile :
 
-Pour plus de questions liées à la plateforme DMP OPIDoR vous retrouverez la FAQ concernant l'outil sur le site Opidor :&#x20;
+Pour plus de questions liées à la plateforme DMP OPIDoR vous retrouverez la FAQ concernant l'outil sur le site Opidor :
 
 {% embed url="https://opidor.fr/planifier#faqService" %}
 FAQ Opidor
