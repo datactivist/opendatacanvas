@@ -38,7 +38,7 @@ Indiquer :
 
 L**a documentation s'assimile à d'autres données qui renseignent sur les données elles-mêmes** (méthodologie, matériaux d'analyse utilisés, traitements appliqués, propriété et protection des données, valorisation des données).&#x20;
 
-Exemple : Guide de procédure/méthodologie d’enquête, programme et application, grille d’analyse, dictionnaire de variables, demande d’autorisation à la CNIL, clauses de confidentialité, métadonnées (titre, mots-clés, DOI)
+Exemple : Guide de procédure/méthodologie d’enquête, programme et application, grille d’analyse, [dictionnaire de variables](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/SJWLPK), demande d’autorisation à la CNIL, clauses de confidentialité, métadonnées (titre, mots-clés, DOI)
 
 _Bonneville, A., Tucci, I., Vion, A., & Giglio, L. (2021). Données de la recherche: Pratiques et besoins dans un laboratoire pluridisciplinaire SHS (p. 55) \[Research Report]. Laboratoire d’économie et sociologie du travail (LEST)._ [_https://hal.archives-ouvertes.fr/hal-03265603_](https://hal.archives-ouvertes.fr/hal-03265603)__
 
