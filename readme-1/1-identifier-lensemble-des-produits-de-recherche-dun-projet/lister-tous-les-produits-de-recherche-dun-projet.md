@@ -30,5 +30,7 @@ Seuls les institutions et centres de données peuvent obtenir des DOI directemen
 [https://opidor.fr/identifier/](https://opidor.fr/identifier/)
 {% endhint %}
 
+Crédits :&#x20;
+
 \
-\
+Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)\
