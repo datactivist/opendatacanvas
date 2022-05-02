@@ -7,5 +7,3 @@ De multiples acteurs parfois distants ou relevant de tutelles distinctes sont am
 > A.CARTIER, R.DELEMONTEZ, M.MOYSAN, N.REYMONET. Réaliser un plan de gestion de données « FAIR » : guide de rédaction (v2, 2018) 23 / 33
 
 ## ****
-
-## ****

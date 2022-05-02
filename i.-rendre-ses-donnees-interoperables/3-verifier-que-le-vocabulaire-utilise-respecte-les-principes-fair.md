@@ -22,4 +22,5 @@ Ce catalogue de standards de métadonnées, _The RDA Metadata Standards Catalog_
 Researdch Data Alliance - [Catalogue de normes de métadonnées](https://rdamsc.bath.ac.uk/scope)
 {% endembed %}
 
-Crédits : Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+**Crédits :** \
+Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)

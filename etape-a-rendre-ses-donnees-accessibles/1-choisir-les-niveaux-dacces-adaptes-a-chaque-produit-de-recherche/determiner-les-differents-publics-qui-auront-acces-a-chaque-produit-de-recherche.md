@@ -100,6 +100,7 @@ Si les données disparaissent ou sont inaccessibles, les métadonnées continuer
 **Pour être FAIR, les métadonnées doivent rester accessibles même si les données ne le sont plus.** Avec le temps, les données peuvent disparaître. Les métadonnées peuvent être très utiles dans ce cas, car elles permettront d'avoir de précieuses informations sur le jeu de données disparu et de laisser la possibilité à d'autres chercheurs de reprendre et poursuivre les recherches associées. L'entrepôt a un rôle majeur dans ce cas, étant donné que c'est lui qui héberge les données et métadonnées associées.
 {% endhint %}
 
-Crédits :
 
-Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+
+**Crédits :** \
+Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)

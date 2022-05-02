@@ -21,6 +21,7 @@ Ce site permet de choisir une licence en fonction de ses besoins.
 Cet outil permet de choisir quelle licence attribuer à ses données en utilisant quelques critères (permissions / obligations / interdictions), de déterminer si une licence est compatible avec ses besoins, de visualiser et télécharger une licence, de la convertir en RDF.
 {% endembed %}
 
-Crédits :
+****
 
-Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+**Crédits :** \
+Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)

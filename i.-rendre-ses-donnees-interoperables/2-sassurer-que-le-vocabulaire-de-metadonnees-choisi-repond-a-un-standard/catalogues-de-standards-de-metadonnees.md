@@ -21,3 +21,6 @@ Vous pouvez aussi consulter le chapitre dédié aux métadonnées dans le [**Gui
 Vous pouvez également consulter ce [**Catalogue de métadonnées**](https://rdamsc.bath.ac.uk/subject-index) développé par Research Data Alliance géré par l'Université de Bath. Cette ressource vous permettra d'y trouver des informations précises sur les normes de métadonnées selon votre discipline spécifique.
 
 ***
+
+**Crédits :** \
+Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)

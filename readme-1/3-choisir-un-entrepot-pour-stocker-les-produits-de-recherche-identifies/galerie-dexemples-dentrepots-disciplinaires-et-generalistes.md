@@ -63,6 +63,7 @@ Source : _Partager les données liées aux publications scientifiques – Guide 
 **La page SOS-PGD du site Couperin de la Science ouverte permet de repérer les services de soutien locaux :** [**https://scienceouverte.couperin.org/sos-pgd/**](https://scienceouverte.couperin.org/sos-pgd/)
 {% endhint %}
 
-Crédits :
 
-Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+
+**Crédits :** \
+Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)

@@ -46,6 +46,7 @@ Sans aller dans les extrêmes, il vous faut quand même être en mesure d’**an
 
 ![Tableau comparatif des différents supports de stockage, DORANuM](../../.gitbook/assets/tableau-comparatif-supports.png)
 
-Crédits :
 
-Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+
+**Crédits :** \
+Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)

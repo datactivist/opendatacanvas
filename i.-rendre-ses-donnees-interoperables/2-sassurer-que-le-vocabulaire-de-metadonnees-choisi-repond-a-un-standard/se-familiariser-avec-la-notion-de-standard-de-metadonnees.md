@@ -34,6 +34,7 @@ C'est un **modèle** !
 
 Pour trouver quels standards sont utilisés dans votre discipline, vous pouvez interroger vos collègues chercheurs mais aussi informaticiens et professionnels de l'IST (information scientifique et technique) et voir quelles sont les pratiques dans votre domaine.
 
-Crédits :
 
-Inist-CNRS - [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
+
+**Crédits :** \
+Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
