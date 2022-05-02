@@ -29,7 +29,9 @@ Pour cela, il est recommandé d'avoir recours à un **standard** de métadonnée
 
 S'il n’en existe pas, il faudra créer un **schéma** de métadonnées.
 
-
+{% hint style="info" %}
+Voir partie "[intéropérable](../../i.-rendre-ses-donnees-interoperables/2-sassurer-que-le-vocabulaire-de-metadonnees-choisi-repond-a-un-standard/catalogues-de-standards-de-metadonnees.md)" sur les standards et schémas de métadonnées.
+{% endhint %}
 
 **Crédits :** \
 Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
