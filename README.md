@@ -14,7 +14,9 @@ Voici une check-list pour vous familiariser avec l'outil et commencer à rédige
 
 ![Modèle PGD ANR : Partie "Contributeurs" à remplir sur DMP OPIDoR](<.gitbook/assets/Capture d’écran 2022-04-20 à 10.36.18.png>)
 
-Vous pouvez également associer, dans les contributeurs de votre PGD, une personne de votre établissement chargée d'accompagner la rédaction du PGD. Voir ici si vous êtes chercheur toulousain la [page données de la recherche du SCD de l'UT3.](https://bibliotheques.univ-tlse3.fr/utiliser-nos-services/se-former-s-informer/chercheurs/gerer-les-donnees-de-la)
+Vous pouvez également associer, dans les contributeurs de votre PGD, une personne de votre établissement chargée d'accompagner la rédaction du PGD.&#x20;
+
+* Contact: [scd.donnees-recherche@univ-tlse3.fr](mailto:scd.donnees-recherche@univ-tlse3.fr) / [soraya.demay@univ-tlse3.fr](mailto:soraya.demay@univ-tlse3.fr)
 
 {% hint style="info" %}
 Pensez à bien renseigner les affiliations (i.e. établissements auxquels ils sont rattachés) des contributeurs ainsi que leurs identifiants (ORCID).
