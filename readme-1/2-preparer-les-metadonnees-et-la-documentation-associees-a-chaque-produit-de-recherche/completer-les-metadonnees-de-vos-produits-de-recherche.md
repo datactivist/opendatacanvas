@@ -48,7 +48,7 @@ Pour cela, il est recommandé d'avoir recours à un **standard** de métadonnée
 S'il n’en existe pas, il faudra créer un **schéma** de métadonnées.
 
 {% hint style="info" %}
-Voir étape "[intéropérable](../../i.-rendre-ses-donnees-interoperables/2-sassurer-que-le-vocabulaire-de-metadonnees-choisi-repond-a-un-standard/catalogues-de-standards-de-metadonnees.md)" sur les standards et schémas de métadonnées.
+* Les standards et schémas de métadonnées seront traités dans la partie [interopérable](../../i.-rendre-ses-donnees-interoperables/2-sassurer-que-le-vocabulaire-de-metadonnees-choisi-repond-a-un-standard/catalogues-de-standards-de-metadonnees.md).
 {% endhint %}
 
 **Crédits :** \
