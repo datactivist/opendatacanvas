@@ -8,7 +8,7 @@
     * [S'inspirer d'exemples de PGD publics](readme-1/1-identifier-lensemble-des-produits-de-recherche-dun-projet/sinspirer-dexemples-de-pgd-public.md)
   * [2. Préparer la documentation associée à chaque produit de recherche](readme-1/2-preparer-les-metadonnees-et-la-documentation-associees-a-chaque-produit-de-recherche/README.md)
     * [Ajouter une documentation aux métadonnées](readme-1/2-preparer-les-metadonnees-et-la-documentation-associees-a-chaque-produit-de-recherche/ajouter-une-documentation-aux-metadonnees.md)
-    * [Compléter les métadonnées de vos produits de recherche](readme-1/2-preparer-les-metadonnees-et-la-documentation-associees-a-chaque-produit-de-recherche/completer-les-metadonnees-de-vos-produits-de-recherche.md)
+    * [Comprendre les métadonnées de vos produits de recherche](readme-1/2-preparer-les-metadonnees-et-la-documentation-associees-a-chaque-produit-de-recherche/comprendre-les-metadonnees-de-vos-produits-de-recherche.md)
     * [S'inspirer d'exemples de PGD public](readme-1/2-preparer-les-metadonnees-et-la-documentation-associees-a-chaque-produit-de-recherche/sinspirer-dexemples-de-pgd-public.md)
   * [3. Choisir un entrepôt pour stocker les produits de recherche identifiés](readme-1/3-choisir-un-entrepot-pour-stocker-les-produits-de-recherche-identifies/README.md)
     * [Suivre les recommandations de votre institution](readme-1/3-choisir-un-entrepot-pour-stocker-les-produits-de-recherche-identifies/suivre-les-recommandations-de-votre-institution.md)
