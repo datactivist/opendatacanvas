@@ -107,6 +107,6 @@ Consulter le [référentiel de gestion des archives de la recherche](https://www
 
 **Crédits :**
 
-* [NERC Data Value Checklist](https://nerc.ukri.org/research/sites/data/policy/data-value-checklist/).&#x20;
+* NERC Data Value Checklist.&#x20;
 * DoRANum : Données de la recherche : apprentissage numérique \[En ligne]. France : DoRANum; 2017. Le Référentiel de gestion des archives de la recherche \[publié le 13/05/2019]. [Disponible](https://doranum.fr/stockage-archivage/referentiel-de-gestion-des-archives-de-la-recherche/)[ i](https://doranum.fr/stockage-archivage/referentiel-de-gestion-des-archives-de-la-recherche/)[ci](https://doranum.fr/stockage-archivage/referentiel-de-gestion-des-archives-de-la-recherche/).
 * Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
