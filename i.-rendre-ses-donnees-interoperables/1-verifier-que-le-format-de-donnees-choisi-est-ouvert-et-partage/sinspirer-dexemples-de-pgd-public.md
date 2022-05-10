@@ -1,4 +1,4 @@
-# S'inspirer d'exemples de PGD public
+# S'inspirer d'exemples de PGD publics
 
 ## Exemple de réponse pour le [projet "LipInTB"](https://dmp.opidor.fr/plans/4624/export.pdf) sur le modèle PGD ANR français section 1.b :
 
