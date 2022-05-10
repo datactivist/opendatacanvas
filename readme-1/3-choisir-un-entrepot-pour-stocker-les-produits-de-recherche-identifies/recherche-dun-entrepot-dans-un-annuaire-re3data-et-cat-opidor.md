@@ -4,7 +4,7 @@
 
 **Re3data**
 
-La recherche s'effectue grâce à des filtres. La liste des résultats apparait sous forme de brèves fiches descriptives présentant, pour chaque entrepôt, le sujet, le type de contenu, le pays, un petit résumé et des icônes symbolisant les critères auxquels répond l'entrepôt.
+La recherche s'effectue grâce à des filtres sur [re3data](https://www.re3data.org). La liste des résultats apparait sous forme de brèves fiches descriptives présentant, pour chaque entrepôt, le sujet, le type de contenu, le pays, un petit résumé et des icônes symbolisant les critères auxquels répond l'entrepôt.
 
 ![Site re3data.org - recherche par filtre](<../../.gitbook/assets/Capture d’écran 2022-04-19 à 11.06.20.png>)
 
