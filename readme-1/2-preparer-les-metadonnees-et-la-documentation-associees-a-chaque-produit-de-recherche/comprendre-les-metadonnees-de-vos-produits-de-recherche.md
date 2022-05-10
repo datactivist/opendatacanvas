@@ -26,7 +26,7 @@ Il est recommandé de renseigner les métadonnées au fur et à mesure de l’av
 Il existe deux types de métadonnées : les métadonnées embarquées et enrichies.
 
 {% tabs %}
-{% tab title="Métadonnées emabarquées" %}
+{% tab title="Métadonnées embarquées" %}
 Elles sont produites **automatiquement** par les appareils (de prise de vue ou de son, de mesure…).
 
 Exemples : données GPS, type d’appareil, date, calibrage technique, etc.
