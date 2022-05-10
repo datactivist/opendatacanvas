@@ -72,7 +72,7 @@ Toute restriction doit être **mentionnée et expliquée dans le PGD.**
 
 </details>
 
-**Lien utile :** Logigramme de communicabilité des données intégré dans le [guide “Ouverture des données de recherche, analyse du cadre juridique en France”](https://hal.inrae.fr/hal-02791224/document) p.29.
+**Lien utile :** [Logigramme de communicabilité des données](https://nextcloud.datactivist.coop/s/2n2LXKErWoz85jL#mindmap), issu du guide “Ouverture des données de recherche, analyse du cadre juridique en France”.
 
 ## **Droits et obligations du chercheur**
 

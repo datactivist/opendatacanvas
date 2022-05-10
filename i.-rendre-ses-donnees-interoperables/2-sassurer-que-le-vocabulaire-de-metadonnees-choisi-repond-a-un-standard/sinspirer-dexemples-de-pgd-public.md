@@ -1,4 +1,4 @@
-# S'inspirer d'exemples de PGD publics
+# S'inspirer d'exemples de PGD public
 
 **Exemple de réponse pour le PGD du** [**projet "SNO KARST"**](https://dmp.opidor.fr/plans/9351/export.pdf) **sur le modèle PGD ANR français section 2 :**
 
