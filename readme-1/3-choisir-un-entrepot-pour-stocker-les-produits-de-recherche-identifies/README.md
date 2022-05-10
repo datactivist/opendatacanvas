@@ -20,7 +20,7 @@ Il est recommandé de déposer vos données de préférence dans un **entrepôt 
 
 1. Le plus souvent, il est recommandé par son institution, son financeur ou sa communauté scientifique (exemple : [Data INRAE](https://data.inrae.fr))
 2. Il est parfois recommandé par un éditeur (exemple : [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/))
-3. S’il n’y a pas de recommandation, le choisir dans un annuaire, en fonction de ses besoins ([Pour en savoir plus](./#recherche-dun-entrepot-dans-un-annuaire-re3data-et-cat-opidor))
+3. S’il n’y a pas de recommandation, le choisir dans un annuaire, en fonction de ses besoins ([Pour en savoir plus](https://arthursz.gitbook.io/composants-patchwork-pgd/readme-1/3-choisir-un-entrepot-pour-stocker-les-produits-de-recherche-identifies/recherche-dun-entrepot-dans-un-annuaire-re3data-et-cat-opidor))
 
 {% hint style="info" %}
 **Si vous avez des difficultés à choisir un entrepôt, vous pouvez vous faire aider par les services de documentation / professionnels de l'IST .**
