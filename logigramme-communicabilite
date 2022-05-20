@@ -3,11 +3,11 @@ maxWidth: 240
 style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top:18em; left:0} g[data-depth="3"] aside {top:10em}
 ---
 
-# <b> <span style="color: #26B260; display:block!important; width:300px!important; line-height:1em">Panorama de la communicabilité et de la capacité à diffuser une donnée produite ou reçue par un établissement supérieur de recherche et/ou d'enseignement supérieur <aside>Logigramme sous Licence ouverte conçu par Nicolas Becard, Céline Castets-Renard, Gauthier Chassang, Martin Dantant, Laurence Freyt-Caffin, Nathalie Gandon, Caroline Martin, Andrea Martelletti, Alexandra Mendoza-Caminade, Nathalie Morcrette, Claire Neirac<br />➡️ <i>Ouverture des données de la recherche. Guide d'analyse du cadre juridique en France.</i> Comité pour la science ouverte. 2017, 45 p.<br />🔗 https://hal.inrae.fr/hal-02791224/  <p>Réalisé par Candice Fillaud pour Datactivist</p></aside>
+# <b> <span style="color: #000000; display:block!important; width:300px!important; line-height:1em">Panorama de la communicabilité et de la capacité à diffuser une donnée produite ou reçue par un établissement supérieur de recherche et/ou d'enseignement supérieur <aside><span style="color: #000000">Logigramme sous Licence ouverte conçu par Nicolas Becard, Céline Castets-Renard, Gauthier Chassang, Martin Dantant, Laurence Freyt-Caffin, Nathalie Gandon, Caroline Martin, Andrea Martelletti, Alexandra Mendoza-Caminade, Nathalie Morcrette, Claire Neirac<br />➡️ <i>Ouverture des données de la recherche. Guide d'analyse du cadre juridique en France.</i> Comité pour la science ouverte. 2017, 45 p.<br />🔗 https://hal.inrae.fr/hal-02791224/  <p>Réalisé par Candice Fillaud pour Datactivist</p></aside>
 
-## <b><span style="color: #26B260">Donnée "achevée" \\c'est-à-dire donnée \\non préparatoire
+## <b><span style="color: #000000">Donnée "achevée" \\c'est-à-dire donnée \\non préparatoire
 
-### <b><span style="color: #26B260">Donnée non (déjà) diffusée publiquement <aside>(sinon, renvoyer la demande d'accès \\ à la donnée -s'il y a lieu- vers celui\\ qui a diffusé la donnée)</aside>
+### <b><span style="color: #000000">Donnée non (déjà) diffusée publiquement <aside>(sinon, renvoyer la demande d'accès \\ à la donnée -s'il y a lieu- vers celui\\ qui a diffusé la donnée)</aside>
 
 #### <span style="color: #B22222"><b>Communication interdite en principe</span> <!--fold -->
 
