@@ -1,0 +1,207 @@
+---
+maxWidth: 240
+style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top:18em; left:0} g[data-depth="3"] aside {top:10em}
+---
+
+# <b> <span style="color: #26B260; display:block!important; width:300px!important; line-height:1em">Panorama de la communicabilité et de la capacité à diffuser une donnée produite ou reçue par un établissement supérieur de recherche et/ou d'enseignement supérieur <aside>Logigramme sous Licence ouverte conçu par Nicolas Becard, Céline Castets-Renard, Gauthier Chassang, Martin Dantant, Laurence Freyt-Caffin, Nathalie Gandon, Caroline Martin, Andrea Martelletti, Alexandra Mendoza-Caminade, Nathalie Morcrette, Claire Neirac<br />➡️ <i>Ouverture des données de la recherche. Guide d'analyse du cadre juridique en France.</i> Comité pour la science ouverte. 2017, 45 p.<br />🔗 https://hal.inrae.fr/hal-02791224/  <p>Réalisé par Candice Fillaud pour Datactivist</p></aside>
+
+## <b><span style="color: #26B260">Donnée "achevée" \\c'est-à-dire donnée \\non préparatoire
+
+### <b><span style="color: #26B260">Donnée non (déjà) diffusée publiquement <aside>(sinon, renvoyer la demande d'accès \\ à la donnée -s'il y a lieu- vers celui\\ qui a diffusé la donnée)</aside>
+
+#### <span style="color: #B22222"><b>Communication interdite en principe</span> <!--fold -->
+
+##### <span style="color: #B22222"> 0️⃣ Données relatives :<br />au secret des délibérations du gouvernement<br />au secret de la défense nationale<br />à la conduite de la politique extérieure de la France<br />à la sûreté de l'Etat, la sécurité publique ou des personnes<br />à la monnaie et au crédit public au déroulement de procédures juridictionnelles (sauf autorisation)<br />à la recherche (par les services compétents) d'infraction fiscales et douanières</p> <p>Les avis du Conseil d'Etat<br />certains documents détenus par la Cour des Comptes, l'Autorité de la Concurrence, la Haute Autorité pour la Transparence de la Vie Publique<br />certains documents sur les établissements de santé</p><p>les documents réalisés en exécution d'un contrat de prestation de services exécuté pour le compte d'une ou plusieurs personnes déterminés</p>
+
+###### <span style="color: #B22222">non communicable, non diffusable
+
+##### <span style="color: #B22222">1️⃣ Données relatives à la sécurité publique ou au secret défense<!--fold -->
+
+###### <span style="color: #B22222">Données recueillis lors d'un projet secret-défense
+
+* <span style="color: #B22222">non communicable, non diffusable <br /> Contacter le fonctionnaire sécurité défense
+
+###### <span style="color: #B22222">Données impactant la sécurité publique<br />Données impactant la sécurité des biens de l'établissement<br />Données impactant la sécurité des personnes
+
+* <span style="color: #B22222">Pas de communication <br /> Pas de diffusion sans autorisation de la direction et du fonctionnaire secret défense
+
+##### <span style="color: #B22222">2️⃣ Donnés relatives à des procédures contentieuses ou répressives<!--fold -->
+
+###### <span style="color: #B22222">Donnée relative à une procédure engagée devant une juridiction ou une opération préliminaire à la procédure
+
+* <span style="color: #B22222">Pas de communication <br />Pas de diffusion sans autorisation de l'autorité compétence
+
+###### <span style="color: #B22222">Donnée qui porte atteinte à la recherche d'infractions fiscales ou douanières
+
+* <span style="color: #B22222"> non communicable, non diffusable
+
+##### <span style="color: #B22222">3️⃣ Données relatives aux secrets professionnels<!--fold -->
+
+###### <span style="color: #B22222">secret des procédés
+
+* <span style="color: #B22222">de l'établissement
+  * <span style="color: #B22222">non communicable, non diffusable, sauf politique de l'établissement
+* <span style="color: #B22222">des tiers
+  * <span style="color: #B22222">non communicable, non diffusable
+
+###### <span style="color: #B22222">secret des informations économiques et financières
+
+* <span style="color: #26B260">de l'établissement
+  * <span style="color: #26B260">Les données financières de l'établissement sont typiquement des documents administratifs communicables et diffusables
+* <span style="color: #B22222">des tiers
+  * <span style="color: #B22222">non communicable, non diffusable
+
+###### <span style="color: #B22222">secret des stratégies commerciales ou industrielles
+
+* <span style="color: #ff7f00">de l'établissement
+  * <span style="color: #ff7f00">non communicable, non diffusable, sauf politique de l'établissement
+* <span style="color: #B22222">des tiers
+  * <span style="color: #B22222">non communicable, non diffusable
+
+#### <span style="color: #ff7f00"><b>Communication sous conditions <!--fold -->
+
+##### <span style="color: #ff7f00">4️⃣ Données relatives au potentiel scientifique et technique de la Nation<!--fold -->
+
+###### <span style="color: #ff7f00">Mon unité est en ZRR
+
+* <span style="color: #ff7f00"> Pas de communication spontanée : toute demande d'accès est traitée comme une demande d'accès physique à l'unité  Pas de diffusion sans autorisation de la direction de l'unité <br />Au besoin : contacter avec le fonctionnaire sécurité défense et autres services compétents
+
+###### <span style="color: #ff7f00"> Mon unité est une unité protégée
+
+* <span style="color: #ff7f00">Pas de communication, ni de diffusion sans autorisation de la direction de l'unité <br />Au besoin : contacter le fonctionnaire sécurité défense et autres services compétents
+
+##### 5️⃣ <span style="color: #ff7f00"> Données protégées par le droit d'auteur et réalisées dans le cadre de l'établissement<!--fold -->
+
+###### <span style="color: #ff7f00"> représentations graphiques,textes, photos, cartes, œuvres sonores ou vidéo, interviews, discours
+
+* <span style="color: #ff7f00"> Œuvres originales
+  * <span style="color: #ff7f00">Droit d'auteur
+    * <span style="color: #ff7f00"> Œuvre réalisée par des chercheurs ou des enseignants chercheurs
+      * <span style="color: #ff7f00">Non communicable, non diffusable sans accord ÉCRIT de l'auteur/des auteurs
+    * <span style="color: #26B260"> Œuvre réalisée par des agents publics qui ne sont ni chercheurs, ni enseignants-chercheurs
+      * <span style="color: #26B260"> Communicable et diffusable
+    * <span style="color: #26B260"> Œuvre réalisée sous l'étroite direction de l'établissement
+      * <span style="color: #26B260"> Œuvre collective
+        * <span style="color: #26B260"> Communicable et diffusable
+* <span style="color: #26B260"> Œuvres non originales (photos automatiques, graphiques simples…)
+  * <span style="color: #26B260"> Pas de droit d'auteur
+    * <span style="color: #26B260"> Communicables et diffusables
+
+###### <span style="color: #ff7f00">Code source de logiciel
+
+* <span style="color: #ff7f00">Propriété de l'établissement <br />communicable et diffusable à priori <br />se référer à la politique de l'établissement
+
+##### <span style="color: #ff7f00">6️⃣ Données protégées par un droit de propriété intellectuelle autre que le droit d'auteur<!--fold -->
+
+###### <span style="color: #ff7f00">Marque
+
+* <span style="color: #ff7f00"> Utilisation de la marque à titre non commercial
+  * <span style="color: #ff7f00"> Communicable et diffusable mais attention au risque de diffamation, parasitisme etc.
+* <span style="color: #ff7f00"> Utilisation de la marque à titre commercial
+  * <span style="color: #ff7f00"> Non communicable, non diffusable sauf publicité comparative (très encadré)
+
+###### <span style="color: #ff7f00"> Dessin ou modèle
+
+* <span style="color: #ff7f00"> Dessin = sigle, logo, représentation graphique
+  * <span style="color: #ff7f00"> Communicable et diffusable si et seulement si accord du titulaire du dessin ou du modèle
+* <span style="color: #ff7f00"> Modèle = représentation graphique en 3 dimensions  <br />exemple : bouteille de Coca-cola
+  * <span style="color: #ff7f00"> Communicable et diffusable si et seulement si accord du titulaire du dessin ou du modèle
+
+###### <span style="color: #ff7f00"> Brevet
+
+* <span style="color: #ff7f00">18 mois après le dépôt de la demande de brevet
+  * <span style="color: #ff7f00"> Information contenue dans le texte du brevet diffusée automatiquement mais pas utilisable (sauf expérimentation pour "refaire" l'invention) <br />Mentionner que l'information est brevetée
+* <span style="color: #ff7f00"> Avant le délai de 18 mois
+  * <span style="color: #ff7f00"> Contacter l'établissement pour connaître la politique de diffusion du brevet  <br />Mentionner que l'information est breveté
+
+###### <span style="color: #ff7f00"> Base de données
+
+* <span style="color: #ff7f00"> Extraction de données non substantielle (qualitativement ou quantitativement)
+  * <span style="color: #ff7f00"> Accès autorisé Rediffusion des données sensibles (sous réserve de la nature des données cf. points 0️⃣ à 8️⃣)
+* <span style="color: #ff7f00">Extraction substantielle de données (qualitativement ou quantitativement)
+  * <span style="color: #ff7f00"> Mon établissement est producteur de la base de données
+    * <span style="color: #ff7f00">Accès autorisé rediffusion des données sensibles  (sous réserve de la nature des données cf. points 0️⃣ à 8️⃣)
+  * <span style="color: #ff7f00"> Un autre établissement est producteur de la base de données
+    * <span style="color: #ff7f00"> Lui transmettre la demande
+  * <span style="color: #ff7f00"> Un tiers privé est producteur de la base de données
+    * <span style="color: #B22222"> Pas de communication<br />Pas de diffusion<br />cf. point 9️⃣
+
+##### <span style="color: #ff7f00">7️⃣ Données personnelles (qui identifient directement ou indirectement des individus)<!--fold -->
+
+###### <span style="color: #ff7f00"> Respect préalable des formalités CNIL ?
+
+* <span style="color: #ff7f00"> Oui
+  * <span style="color: #ff7f00"> Données médicales ?
+    * <span style="color: #ff7f00"> oui
+      * <span style="color: #ff7f00">Données accessibles uniquement à la personne concernée
+        * <span style="color: #ff7f00"> Données anonymisées
+          * <span style="color: #26B260"> Diffusables
+        * <span style="color: #ff7f00">Données non anonymisées
+          * <span style="color: #B22222"> Pas de diffusion
+    * <span style="color: #ff7f00">non
+      * <span style="color: #ff7f00">Données accessibles uniquement à la personne concernée et aux personnes désignées dans le traitement
+        * <span style="color: #ff7f00"> Données anonymisées
+          * <span style="color: #ff7f00"> Respect du secret statistique
+            * <span style="color: #26B260"> Diffusables
+        * <span style="color: #B22222"> Données non anonymisées
+          * <span style="color: #B22222"> Pas de diffusion
+* <span style="color: #B22222"> Non
+  * <span style="color: #B22222"> Je ne peux rien faire de ces données
+
+##### <span style="color: #ff7f00">8️⃣ Données provenant des services statistiques publiques (INSEE, etc…)<!--fold -->
+
+###### <span style="color: #ff7f00">Demande effectuée auprès du Comité du Secret Statistique (CSS) ? (www.cnis.fr)
+
+* <span style="color: #ff7f00">Oui
+  * <span style="color: #ff7f00">Diffusion : se conformer aux conditions édictées par le CSS. Au minimum :  <br /> données entreprises : pas de cas contenant moins de 3 unités, pas d'entreprises >85% du total <br /> données ménages : pas de ré-identification possible
+* <span style="color: #ff7f00"> Non
+  * <span style="color: #ff7f00">Faire une demande au CSS
+
+##### <span style="color: #ff7f00">9️⃣ Données provenant d'un tiers<!--fold -->
+
+###### <span style="color: #ff7f00">Données "copiées" depuis le net ou collectées dans un cadre non contractuel
+
+* <span style="color: #ff7f00">Ne pas diffuser (pas de mention = pas de droit d'utilisation)
+  * <span style="color: #ff7f00">Prendre contact avec le fournisseur ou l'auteur
+
+###### <span style="color: #ff7f00">Données issues d'un contrat
+
+* <span style="color: #ff7f00"> Prestation de service réalisée pour une personne déterminée
+  * <span style="color: #B22222"> Non communicable, non diffusable
+* <span style="color: #ff7f00">Autres relations contractuelles
+  * <span style="color: #ff7f00">Tiers intervenant dans le cadre d'une mission de service public
+    * <span style="color: #ff7f00">Donnée communicable et diffusable sous réserve des points de 0️⃣ à 8️⃣
+  * <span style="color: #ff7f00">Tiers intervenant dans un cadre concurrentiel
+    * <span style="color: #ff7f00">Base de données ou données avec une licence d'utilisation
+      * <span style="color: #ff7f00">Se référer à 3️⃣ et 6️⃣ et vérifier les conditions de la licence
+    * <span style="color: #ff7f00">Données issues d'un contrat
+      * <span style="color: #ff7f00"> Se référer au point 3️⃣ et  vérifier les conditions du contrat
+
+#### <span style="color: #26B260"><b>Communication obligatoire
+
+##### <span style="color: #26B260">Données \\ géographiques<!--fold -->
+
+###### <span style="color: #26B260">Données géographiques sauf données relevant des points 0️⃣ à 9️⃣
+
+* <span style="color: #26B260">disponibles sous format électronique
+  * <span style="color: #26B260">Obligation de communication et de diffusion
+* <span style="color: #26B260">disponibles sous format papier
+  * <span style="color: #26B260">Données communicables, pas d'obligation de diffusion
+
+##### <span style="color: #26B260">Données \\ environnementales<!--fold -->
+
+###### <span style="color: #26B260">Données relatives à des émissions de substances dans l'environnement<!--fold -->
+
+* <span style="color: #26B260">Données relevant du 0️⃣ ou du 1️⃣
+  * <span style="color: #B22222">Pas communicable, pas diffusable
+* <span style="color: #26B260">Données portant atteinte à des droits de propriété intellectuelle
+  * <span style="color: #B22222">Pas communicable, pas diffusable
+* <span style="color: #26B260">Autres données
+  * <span style="color: #26B260">Communication obligatoire à tout citoyen demandeur sauf si la communication et/ou réutilisation porte atteinte :  <br />à la protection de l'environnement <br />aux intérêts de la personne ayant fourni les données <br />au secret statistique
+
+###### <span style="color: #26B260">Autres données environnementales :<!--fold -->
+
+* <span style="color: #26B260"> Les traités, conventions et accords internationaux, ainsi que la législation communautaire, nationale, régionale et locale concernant l'environnement ou s'y rapportant ; <p>Les plans et programmes et les documents définissant les politiques publiques qui ont trait à l'environnement ; </p> <p> Les rapports établis par les autorités publiques ou pour leur compte relatifs à l'état d'avancement de la mise en œuvre des textes quand ces rapports sont élaborés ou conservés sous forme électronique par les autorités publiques ;</p> <p> Les rapports établis par les autorités publiques sur l'état de l'environnement ;</p>  <p> Les données ou résumés de données recueillies par les autorités publiques dans le cadre du suivi des activités ayant ou susceptibles d'avoir des incidences sur l'environnement ;</p> <p> Les autorisations qui ont un impact significatif sur l'environnement ainsi que les accords environnementaux ; </p> <p> Les études d'impact environnemental et les évaluations de risques concernant les éléments de l'environnement. </p>
+  * <span style="color: #26B260">Communication et diffusion obligatoires
+* <span style="color: #26B260">Autres données environnementales
+  * <span style="color: #26B260">Communication obligatoire sauf données relevant des 0️⃣, 1️⃣, 2️⃣, 4️⃣, 7️⃣, 8️⃣, 9️⃣ <br /><span style="color: #26B260">Diffusion possible
