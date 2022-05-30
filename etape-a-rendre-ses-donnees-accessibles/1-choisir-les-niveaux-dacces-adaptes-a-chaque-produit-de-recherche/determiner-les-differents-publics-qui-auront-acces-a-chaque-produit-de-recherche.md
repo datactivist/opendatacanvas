@@ -72,7 +72,9 @@ Toute restriction doit être **mentionnée et expliquée dans le PGD.**
 
 </details>
 
+{% embed url="https://mymarkmap.vercel.app/#https://raw.githubusercontent.com/datactivist/opendatacanvas/master/logigramme-communicabilite" %}
 **Lien utile :** [Logigramme de communicabilité des données](https://nextcloud.datactivist.coop/s/2n2LXKErWoz85jL#mindmap), issu du guide “Ouverture des données de recherche, analyse du cadre juridique en France”.
+{% endembed %}
 
 ## **Droits et obligations du chercheur**
 
