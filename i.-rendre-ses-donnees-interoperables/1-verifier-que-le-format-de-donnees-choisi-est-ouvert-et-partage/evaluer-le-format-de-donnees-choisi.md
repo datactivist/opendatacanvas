@@ -14,7 +14,7 @@ L'idéal est d'opter pour des formats de fichiers les plus **ouverts** possible 
 
 * Privilégier .csv à .xls
 * Privilégier .odt à .doc
-* Privilégier .jpg à .tif
+* Privilégier .png à .tif
 
 Voici un tableau non-exhaustif de formats fermés et de leurs équivalents ouverts :
 
@@ -24,5 +24,5 @@ Voici un tableau non-exhaustif de formats fermés et de leurs équivalents ouver
 **Dans tous les cas, il faut mentionner dans le PGD quels formats seront utilisés.**
 {% endhint %}
 
-**Crédits :** \
+**Crédits :**\
 Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
