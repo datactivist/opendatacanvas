@@ -36,17 +36,39 @@ Indiquer :
 
 </details>
 
-L**a documentation s'assimile à d'autres données qui renseignent sur les données elles-mêmes** (méthodologie, matériaux d'analyse utilisés, traitements appliqués, propriété et protection des données, valorisation des données).&#x20;
+L**a documentation s'assimile à d'autres données qui renseignent sur les données elles-mêmes** (méthodologie, matériaux d'analyse utilisés, traitements appliqués, propriété et protection des données, valorisation des données).
 
 Exemple : Guide de procédure/méthodologie d’enquête, programme et application, grille d’analyse, [dictionnaire de variables](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/SJWLPK), demande d’autorisation à la CNIL, clauses de confidentialité, métadonnées (titre, mots-clés, DOI), datasheet sur dataset
 
-_Bonneville, A., Tucci, I., Vion, A., & Giglio, L. (2021). Données de la recherche: Pratiques et besoins dans un laboratoire pluridisciplinaire SHS (p. 55) \[Research Report]. Laboratoire d’économie et sociologie du travail (LEST)._ [_https://hal.archives-ouvertes.fr/hal-03265603_](https://hal.archives-ouvertes.fr/hal-03265603)__
+_Bonneville, A., Tucci, I., Vion, A., & Giglio, L. (2021). Données de la recherche: Pratiques et besoins dans un laboratoire pluridisciplinaire SHS (p. 55) \[Research Report]. Laboratoire d’économie et sociologie du travail (LEST)._ [_https://hal.archives-ouvertes.fr/hal-03265603_](https://hal.archives-ouvertes.fr/hal-03265603)\_\_
 
 {% hint style="info" %}
 Attention aux données sensibles, personnelles ou confidentielles : prendre les précautions nécessaires afin de respecter les règles juridiques et éthiques en vigueur (voir étapes ultérieures - Étape [A](../../etape-a-rendre-ses-donnees-accessibles/1-choisir-les-niveaux-dacces-adaptes-a-chaque-produit-de-recherche/) et [R](../../r.-rendre-ses-donnees-reutilisables/2-verifier-la-conformite-juridique-et-ethique-de-la-publication-des-donnees.md)).
 {% endhint %}
 
+### **Nommage de fichiers**&#x20;
 
+La fiabilité d’accès passe par un nommage unique et précis des fichiers de données.&#x20;
 
-**Crédits :** \
+{% tabs %}
+{% tab title="Bonnes pratiques" %}
+• 30 caractères maximum
+
+• Noms des partenaires insérables si leur graphie est harmonisée entre les fichiers
+
+• Numéros de versions le cas échéant
+
+• Dates au format ISO : AAAA-MM-JJ
+{% endtab %}
+
+{% tab title="À éviter" %}
+• Pas de caractères spéciaux ou accentués du type ùéàç+’@°\[ ] :\</\* »& !$ …
+
+• Séparateurs : pas d’espace, pas de mots vides, éventuellement Majuscules ou underscore&#x20;
+
+• Pas de dénomination vague : divers, autres, à classer…
+{% endtab %}
+{% endtabs %}
+
+**Crédits :**\
 Réseau URFIST - Inist-CNRS : [PARCOURS INTERACTIF SUR LA GESTION DES DONNÉES DE LA RECHERCHE](https://doranum.fr/enjeux-benefices/parcours-interactif-sur-la-gestion-des-donnees-de-la-recherche/)
