@@ -25,7 +25,7 @@
     * [Définir un mode d'archivage pérenne pour mes données](etape-a-rendre-ses-donnees-accessibles/2-decrire-le-chemin-dacces-aux-produits-de-recherche-pour-chaque-niveau-dacces/definir-un-mode-darchivage-perenne-pour-mes-donnees.md)
   * [3. Budgétiser le coût global de gestion des produits de recherche](etape-a-rendre-ses-donnees-accessibles/3-budgetiser-le-cout-global-de-gestion-des-produits-de-recherche/README.md)
     * [S'inspirer d'exemples de PGD publics](etape-a-rendre-ses-donnees-accessibles/3-budgetiser-le-cout-global-de-gestion-des-produits-de-recherche/sinspirer-dexemples-de-pgd-publics.md)
-    * [Lister les les dépenses afférentes au cycle de vie de vos données et à leur FAIRisation](etape-a-rendre-ses-donnees-accessibles/3-budgetiser-le-cout-global-de-gestion-des-produits-de-recherche/lister-les-les-depenses-afferentes-au-cycle-de-vie-de-vos-donnees-et-a-leur-fairisation.md)
+    * [Lister les dépenses afférentes au cycle de vie de vos données et à leur FAIRisation](etape-a-rendre-ses-donnees-accessibles/3-budgetiser-le-cout-global-de-gestion-des-produits-de-recherche/lister-les-les-depenses-afferentes-au-cycle-de-vie-de-vos-donnees-et-a-leur-fairisation.md)
     * [Évaluer le montant des dépenses grâce à un calculateur de couts](etape-a-rendre-ses-donnees-accessibles/3-budgetiser-le-cout-global-de-gestion-des-produits-de-recherche/evaluer-le-montant-des-depenses-grace-a-un-calculateur-de-couts.md)
 * [Étape I. Rendre ses données intéropérables](i.-rendre-ses-donnees-interoperables/README.md)
   * [1. Vérifier que le format de données choisi est ouvert et partagé](i.-rendre-ses-donnees-interoperables/1-verifier-que-le-format-de-donnees-choisi-est-ouvert-et-partage/README.md)
